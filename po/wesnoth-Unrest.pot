@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2005-05-07 13:02+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./Unrest.cfg:8
+msgid "Unrest in Elfland"
+msgstr ""
+
+#: ./Unrest.cfg:12
+msgid "Soldier"
+msgstr ""
+
+#: ./Unrest.cfg:12
+msgid "(easiest)"
+msgstr ""
+
+#: ./Unrest.cfg:13
+msgid "Prince"
+msgstr ""
+
+#: ./Unrest.cfg:14
+msgid "(hardest)"
+msgstr ""
+
+#: ./Unrest.cfg:14
+msgid "King"
+msgstr ""
+
+#: ./Unrest.cfg:15
+msgid "Play the role of an Elvish Prince as he attempts to save the realm from its downfall."
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:50
+msgid "Defeat the assassins"
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:56 ./Unrest/scenarios/Elvish_Rivalry.cfg:46 ./Unrest/scenarios/Orc_Attack.cfg:69 ./Unrest/scenarios/Bandit_Invasion.cfg:54
+msgid "Death of Aramir"
+msgstr ""
+
+#: ./Unrest/scenarios/Orc_Attack.cfg:73 ./Unrest/scenarios/Bandit_Invasion.cfg:58
+msgid "Death of Elebren"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:218 ./Unrest/scenarios/Bandit_Invasion.cfg:290
+msgid "loyal"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:225 ./Unrest/scenarios/Bandit_Invasion.cfg:297
+msgid "quick"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:259
+msgid "Phew, cleaning up those fires was tiring."
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:263
+msgid "Prepare to die, elf!"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:267
+msgid "What's this? It's a bunch of assassins! Argh, if only Aramir was here!"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:314
+msgid "Aramir sends word that he and his army will arrive two dawns hence!"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:354
+msgid "What's going on here?"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:358
+msgid "I'm being attacked by assassins!"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:362
+msgid "That's bad. Prepare to die, assassins!"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:373
+msgid "Argh! Aramir is dead! Now I am doomed!"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:386
+msgid "No! Without Elebren, our kingdom is doomed!"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:402
+msgid "Take this, foul invader!"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:415
+msgid "Charge!!!"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:428
+msgid "Die, you assassin!"
+msgstr ""
+
+#: ./Unrest/scenarios/Bandit_Invasion.cfg:435
+msgid "Having crushed their opponents, Aramir and Elebren ruled peacefully for many years."
+msgstr ""
+
+#: ./Unrest/scenarios/Elvish_Rivalry.cfg:42
+msgid "Resist until end of turns"
+msgstr ""
+
+#: ./Unrest/scenarios/Elvish_Rivalry.cfg:50
+msgid "Death of your brother Elebren"
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:52 ./Unrest/scenarios/Orc_Attack.cfg:65
+msgid "Defeat the Orcs"
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:60
+msgid "Death of Tyragon"
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:197
+msgid "Aramir arrived just in time. The castle of the general Tyragon was already under siege."
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:201
+msgid "Come quickly! The Orcs have destroyed my outposts and are attacking my castle!"
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:205
+msgid "I'm coming as fast as I can! Hold them off as best you can!"
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:209
+msgid "I have to stay in here and defend my castle, so I can't help you defeat the Orcs."
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:219
+msgid "No! Both my kingdom and Tyragon's people are doomed now!"
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:232
+msgid "How could I fall to such as these..."
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:245
+msgid "You shall die, foolish Orc."
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:255
+msgid "I strike a blow for the old alliance!"
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:267
+msgid "I'll help you defend your castle."
+msgstr ""
+
+#: ./Unrest/scenarios/Human_Alliance.cfg:274
+msgid "I thank you for your aid, Prince Aramir."
+msgstr ""
+
+#: ./Unrest/scenarios/Orc_Attack.cfg:558
+msgid "Die, foul Orc!"
+msgstr ""
+
+#: ./Unrest/scenarios/Orc_Attack.cfg:570
+msgid "We've driven the Orcish menace from our forests. Now we--"
+msgstr ""
+
+#: ./Unrest/scenarios/Orc_Attack.cfg:584
+msgid "Elebren! Aramir! We have need of your aid, and call on you to uphold our old alliance against the Orcs!"
+msgstr ""
+
+#: ./Unrest/scenarios/Orc_Attack.cfg:588
+msgid "I'll go help the humans with their orcish problem. Elebren--"
+msgstr ""
+
+#: ./Unrest/scenarios/Orc_Attack.cfg:597
+msgid "I'll stay here to put out the fires and defend against any other invaders."
+msgstr ""
+
+#: ./Unrest/scenarios/Orc_Attack.cfg:603
+msgid "I'll stay here to clean up after the fires and defend against any other invaders."
+msgstr ""
+
+#: ./Unrest/units/Elvish_Warrior_King.cfg:3
+msgid "Elvish Warrior King"
+msgstr ""
+
+#: ./Unrest/units/Elvish_Warrior_King.cfg:18 ./Unrest/units/Elvish_Warrior_Prince.cfg:18
+msgid "leadership"
+msgstr ""
+
+#: ./Unrest/units/Elvish_Warrior_King.cfg:28 ./Unrest/units/Elvish_Warrior_Prince.cfg:29
+msgid "sword"
+msgstr ""
+
+#: ./Unrest/units/Elvish_Warrior_King.cfg:29 ./Unrest/units/Nightwing_Bat.cfg:22 ./Unrest/units/Elvish_Warrior_Prince.cfg:30
+msgid "blade"
+msgstr ""
+
+#: ./Unrest/units/Elvish_Warrior_King.cfg:39 ./Unrest/units/Elvish_Warrior_Prince.cfg:40
+msgid "fireball"
+msgstr ""
+
+#: ./Unrest/units/Elvish_Warrior_King.cfg:40 ./Unrest/units/Forest_Fire.cfg:36 ./Unrest/units/Elvish_Warrior_Prince.cfg:41
+msgid "fire"
+msgstr ""
+
+#: ./Unrest/units/Elvish_Warrior_King.cfg:44
+msgid "magical"
+msgstr ""
+
+#: ./Unrest/units/Elvish_Warrior_Prince.cfg:3
+msgid "Elvish Warrior Prince"
+msgstr ""
+
+#: ./Unrest/units/Forest_Fire.cfg:3
+msgid "Forest Fire"
+msgstr ""
+
+#: ./Unrest/units/Forest_Fire.cfg:35
+msgid "burn"
+msgstr ""
+
+#: ./Unrest/units/Nightwing_Bat.cfg:4
+msgid "Nightwing Bat"
+msgstr ""
+
+#: ./Unrest/units/Nightwing_Bat.cfg:17
+msgid "nightstalk"
+msgstr ""
+
+#: ./Unrest/units/Nightwing_Bat.cfg:18
+msgid "They're invisible at night and they suck your blood! Fear them!"
+msgstr ""
+
+#: ./Unrest/units/Nightwing_Bat.cfg:21
+msgid "fangs"
+msgstr ""
+
+#: ./Unrest/units/Nightwing_Bat.cfg:26
+msgid "drain"
+msgstr ""
+
