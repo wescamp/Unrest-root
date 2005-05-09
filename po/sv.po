@@ -3,274 +3,288 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-07 13:02+0200\n"
-"PO-Revision-Date: 2005-05-07 13:02+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2005-05-09 12:34+0200\n"
+"Last-Translator: tephlon\n"
+"Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.10\n"
 
 #: Unrest.cfg:8
 msgid "Unrest in Elfland"
-msgstr ""
+msgstr "Oro i Alvernas rike"
 
 #: Unrest.cfg:12
 msgid "Soldier"
-msgstr ""
+msgstr "Soldat"
 
 #: Unrest.cfg:12
 msgid "(easiest)"
-msgstr ""
+msgstr "(lättast)"
 
 #: Unrest.cfg:13
 msgid "Prince"
-msgstr ""
+msgstr "Prins"
 
 #: Unrest.cfg:14
 msgid "(hardest)"
-msgstr ""
+msgstr "(svårast)"
 
 #: Unrest.cfg:14
 msgid "King"
-msgstr ""
+msgstr "Kung"
 
 #: Unrest.cfg:15
 msgid ""
 "Play the role of an Elvish Prince as he attempts to save the realm from its "
 "downfall."
-msgstr ""
+msgstr "En alvprins försöker rädda sitt rike från att falla samman."
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:50
 msgid "Defeat the assassins"
-msgstr ""
+msgstr "Besegra lönnmördarna"
 
 #: Unrest/scenarios/Human_Alliance.cfg:56
 #: Unrest/scenarios/Elvish_Rivalry.cfg:46 Unrest/scenarios/Orc_Attack.cfg:69
 #: Unrest/scenarios/Bandit_Invasion.cfg:54
 msgid "Death of Aramir"
-msgstr ""
+msgstr "Aramir dör"
 
 #: Unrest/scenarios/Orc_Attack.cfg:73 Unrest/scenarios/Bandit_Invasion.cfg:58
 msgid "Death of Elebren"
-msgstr ""
+msgstr "Elebren dör"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:218
 #: Unrest/scenarios/Bandit_Invasion.cfg:290
 msgid "loyal"
-msgstr ""
+msgstr "lojal"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:225
 #: Unrest/scenarios/Bandit_Invasion.cfg:297
 msgid "quick"
-msgstr ""
+msgstr "snabb"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:259
 msgid "Phew, cleaning up those fires was tiring."
-msgstr ""
+msgstr "Puh, det var jobbigt att rensa upp efter bränderna."
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:263
 msgid "Prepare to die, elf!"
-msgstr ""
+msgstr "Bered dig att dö, alv!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:267
 msgid "What's this? It's a bunch of assassins! Argh, if only Aramir was here!"
-msgstr ""
+msgstr "Vad är detta? Ett gäng lönnmördare! Argh, om bara Aramir var här!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:314
 msgid "Aramir sends word that he and his army will arrive two dawns hence!"
 msgstr ""
+"Aramir skickar bud att han och hans armé kommer till undsättning om två "
+"dagar!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:354
 msgid "What's going on here?"
-msgstr ""
+msgstr "Vad händer här?"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:358
 msgid "I'm being attacked by assassins!"
-msgstr ""
+msgstr "Jag är anfallen av lönnmördare!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:362
 msgid "That's bad. Prepare to die, assassins!"
-msgstr ""
+msgstr "Det var illa. Bered er för döden, lönnmördare!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:373
 msgid "Argh! Aramir is dead! Now I am doomed!"
-msgstr ""
+msgstr "Argh! Aramir är död! Jag är förgjord!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:386
 msgid "No! Without Elebren, our kingdom is doomed!"
-msgstr ""
+msgstr "Nej! Utan Elebren är vårt rike dödsdömt!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:402
 msgid "Take this, foul invader!"
-msgstr ""
+msgstr "Här har du, eländige inkräktare!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:415
 msgid "Charge!!!"
-msgstr ""
+msgstr "Anfall!!!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:428
 msgid "Die, you assassin!"
-msgstr ""
+msgstr "Dö, lönnmördare!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:435
 msgid ""
 "Having crushed their opponents, Aramir and Elebren ruled peacefully for many "
 "years."
 msgstr ""
+"Efter att ha krossat sina motståndare, regerade Aramir och Elebren i fred i "
+"många år."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:42
 msgid "Resist until end of turns"
-msgstr ""
+msgstr "Håll stånd tills dragen tar slut."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:50
 msgid "Death of your brother Elebren"
-msgstr ""
+msgstr "Din bror Elebren dör"
 
 #: Unrest/scenarios/Human_Alliance.cfg:52 Unrest/scenarios/Orc_Attack.cfg:65
 msgid "Defeat the Orcs"
-msgstr ""
+msgstr "Besegra orcherna"
 
 #: Unrest/scenarios/Human_Alliance.cfg:60
 msgid "Death of Tyragon"
-msgstr ""
+msgstr "Tyragon dör"
 
 #: Unrest/scenarios/Human_Alliance.cfg:197
 msgid ""
 "Aramir arrived just in time. The castle of the general Tyragon was already "
 "under siege."
 msgstr ""
+"Aramir kom fram i grevens tid. General Tyragons slott var redan under "
+"belägring."
 
 #: Unrest/scenarios/Human_Alliance.cfg:201
 msgid ""
 "Come quickly! The Orcs have destroyed my outposts and are attacking my "
 "castle!"
-msgstr ""
+msgstr "Kom fort! Orcherna har krossat mina utposter och anfaller mitt slott!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:205
 msgid "I'm coming as fast as I can! Hold them off as best you can!"
-msgstr ""
+msgstr "Jag kommer så snabbt jag kan! Håll dem undan så gott det går!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:209
 msgid ""
 "I have to stay in here and defend my castle, so I can't help you defeat the "
 "Orcs."
 msgstr ""
+"Jag måste stanna här och försvara mitt slott, så jag kan inte hjälpa dig mot "
+"orcherna."
 
 #: Unrest/scenarios/Human_Alliance.cfg:219
 msgid "No! Both my kingdom and Tyragon's people are doomed now!"
-msgstr ""
+msgstr "Nej! Båda mina kungadömen och Tyragons folk är dödsdömda nu!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:232
 msgid "How could I fall to such as these..."
-msgstr ""
+msgstr "Hur kunde det gå så här..."
 
 #: Unrest/scenarios/Human_Alliance.cfg:245
 msgid "You shall die, foolish Orc."
-msgstr ""
+msgstr "Du ska dö, din dumma orch."
 
 #: Unrest/scenarios/Human_Alliance.cfg:255
 msgid "I strike a blow for the old alliance!"
-msgstr ""
+msgstr "Ett slag för den gamla alliansen!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:267
 msgid "I'll help you defend your castle."
-msgstr ""
+msgstr "Jag ska hjälpa dig att försvara ditt slott."
 
 #: Unrest/scenarios/Human_Alliance.cfg:274
 msgid "I thank you for your aid, Prince Aramir."
-msgstr ""
+msgstr "Jag tackar dig för din hjälp, prins Aramir."
 
 #: Unrest/scenarios/Orc_Attack.cfg:558
 msgid "Die, foul Orc!"
-msgstr ""
+msgstr "Dö, vidriga orch!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:570
 msgid "We've driven the Orcish menace from our forests. Now we--"
-msgstr ""
+msgstr "Vi har lyckats driva bort orchernas hot från våra skogar, nu kan-"
 
 #: Unrest/scenarios/Orc_Attack.cfg:584
 msgid ""
 "Elebren! Aramir! We have need of your aid, and call on you to uphold our old "
 "alliance against the Orcs!"
 msgstr ""
+"Elebren! Aramir! Vi behöver er hjälp, och ber er minnas vår gamla allians "
+"mot orcherna!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:588
 msgid "I'll go help the humans with their orcish problem. Elebren--"
-msgstr ""
+msgstr "Jag ska hjälpa människorna med deras orchproblem. Elebren-"
 
 #: Unrest/scenarios/Orc_Attack.cfg:597
 msgid ""
 "I'll stay here to put out the fires and defend against any other invaders."
 msgstr ""
+"Jag stannar här och släcker bränderna och håller undan andra inkräktare."
 
 #: Unrest/scenarios/Orc_Attack.cfg:603
 msgid ""
 "I'll stay here to clean up after the fires and defend against any other "
 "invaders."
 msgstr ""
+"Jag stannar här och rensar upp efter bränderna och håller undan andra "
+"inkräktare."
 
 #: Unrest/units/Elvish_Warrior_King.cfg:3
 msgid "Elvish Warrior King"
-msgstr ""
+msgstr "Alvkrigarkung"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:18
 #: Unrest/units/Elvish_Warrior_Prince.cfg:18
 msgid "leadership"
-msgstr ""
+msgstr "ledarskap"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:28
 #: Unrest/units/Elvish_Warrior_Prince.cfg:29
 msgid "sword"
-msgstr ""
+msgstr "svärd"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:29 Unrest/units/Nightwing_Bat.cfg:22
 #: Unrest/units/Elvish_Warrior_Prince.cfg:30
 msgid "blade"
-msgstr ""
+msgstr "hugg"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:39
 #: Unrest/units/Elvish_Warrior_Prince.cfg:40
 msgid "fireball"
-msgstr ""
+msgstr "eldklot"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:40 Unrest/units/Forest_Fire.cfg:36
 #: Unrest/units/Elvish_Warrior_Prince.cfg:41
 msgid "fire"
-msgstr ""
+msgstr "eld"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:44
 msgid "magical"
-msgstr ""
+msgstr "magisk"
 
 #: Unrest/units/Elvish_Warrior_Prince.cfg:3
 msgid "Elvish Warrior Prince"
-msgstr ""
+msgstr "Alvkrigarprins"
 
 #: Unrest/units/Forest_Fire.cfg:3
 msgid "Forest Fire"
-msgstr ""
+msgstr "Skogsbrand"
 
 #: Unrest/units/Forest_Fire.cfg:35
 msgid "burn"
-msgstr ""
+msgstr "bränn"
 
 #: Unrest/units/Nightwing_Bat.cfg:4
 msgid "Nightwing Bat"
-msgstr ""
+msgstr "Skuggfladdermus"
 
 #: Unrest/units/Nightwing_Bat.cfg:17
 msgid "nightstalk"
-msgstr ""
+msgstr "skuggsteg"
 
 #: Unrest/units/Nightwing_Bat.cfg:18
 msgid "They're invisible at night and they suck your blood! Fear them!"
-msgstr ""
+msgstr "De är osynliga på natten och de är ute efter ditt blod! Frukta dem!"
 
 #: Unrest/units/Nightwing_Bat.cfg:21
 msgid "fangs"
-msgstr ""
+msgstr "huggtänder"
 
 #: Unrest/units/Nightwing_Bat.cfg:26
 msgid "drain"
-msgstr ""
+msgstr "suga livskraft"
