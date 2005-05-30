@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-07 13:02+0200\n"
-"PO-Revision-Date: 2005-05-09 12:34+0200\n"
+"PO-Revision-Date: 2005-05-30 14:22+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -176,7 +176,7 @@ msgstr "Hur kunde det gå så här..."
 
 #: Unrest/scenarios/Human_Alliance.cfg:245
 msgid "You shall die, foolish Orc."
-msgstr "Du ska dö, din dumma orch."
+msgstr "Du skall dö, din dumma orch."
 
 #: Unrest/scenarios/Human_Alliance.cfg:255
 msgid "I strike a blow for the old alliance!"
@@ -184,7 +184,7 @@ msgstr "Ett slag för den gamla alliansen!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:267
 msgid "I'll help you defend your castle."
-msgstr "Jag ska hjälpa dig att försvara ditt slott."
+msgstr "Jag skall hjälpa dig att försvara ditt slott."
 
 #: Unrest/scenarios/Human_Alliance.cfg:274
 msgid "I thank you for your aid, Prince Aramir."
@@ -208,7 +208,7 @@ msgstr ""
 
 #: Unrest/scenarios/Orc_Attack.cfg:588
 msgid "I'll go help the humans with their orcish problem. Elebren--"
-msgstr "Jag ska hjälpa människorna med deras orchproblem. Elebren-"
+msgstr "Jag skall hjälpa människorna med deras orchproblem. Elebren-"
 
 #: Unrest/scenarios/Orc_Attack.cfg:597
 msgid ""
