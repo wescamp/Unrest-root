@@ -198,7 +198,7 @@ msgstr "Meurs, satané orc !"
 
 #: Unrest/scenarios/Orc_Attack.cfg:570
 msgid "We've driven the Orcish menace from our forests. Now we--"
-msgstr "Nous avons écarté la menace orque de nos forêts. Maintenant nous--"
+msgstr "Nous avons écarté la menace orc de nos forêts. Maintenant nous--"
 
 #: Unrest/scenarios/Orc_Attack.cfg:584
 msgid ""
@@ -210,7 +210,7 @@ msgstr ""
 
 #: Unrest/scenarios/Orc_Attack.cfg:588
 msgid "I'll go help the humans with their orcish problem. Elebren--"
-msgstr "Je vais aider les humains avec leur problême d'orcs. Elebren--"
+msgstr "Je vais aider les humains avec leur problème d'orcs. Elebren--"
 
 #: Unrest/scenarios/Orc_Attack.cfg:597
 msgid ""
