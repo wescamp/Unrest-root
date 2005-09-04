@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-07 13:02+0200\n"
+"POT-Creation-Date: 2005-09-04 16:30+0200\n"
 "PO-Revision-Date: 2005-05-07 13:02+0200\n"
 "Last-Translator: blurgk <blurg@gmail.com>\n"
 "Language-Team: Language fr\n"
@@ -46,13 +46,13 @@ msgstr ""
 msgid "Defeat the assassins"
 msgstr "Vaincre les assassins"
 
-#: Unrest/scenarios/Human_Alliance.cfg:56
-#: Unrest/scenarios/Elvish_Rivalry.cfg:46 Unrest/scenarios/Orc_Attack.cfg:69
 #: Unrest/scenarios/Bandit_Invasion.cfg:54
+#: Unrest/scenarios/Elvish_Rivalry.cfg:46
+#: Unrest/scenarios/Human_Alliance.cfg:56 Unrest/scenarios/Orc_Attack.cfg:69
 msgid "Death of Aramir"
 msgstr "Mort d'Aramir"
 
-#: Unrest/scenarios/Orc_Attack.cfg:73 Unrest/scenarios/Bandit_Invasion.cfg:58
+#: Unrest/scenarios/Bandit_Invasion.cfg:58 Unrest/scenarios/Orc_Attack.cfg:73
 msgid "Death of Elebren"
 msgstr "Mort d'Elebren"
 
@@ -241,8 +241,8 @@ msgstr "commandement"
 msgid "sword"
 msgstr "épée"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:29 Unrest/units/Nightwing_Bat.cfg:22
-#: Unrest/units/Elvish_Warrior_Prince.cfg:30
+#: Unrest/units/Elvish_Warrior_King.cfg:29
+#: Unrest/units/Elvish_Warrior_Prince.cfg:30 Unrest/units/Nightwing_Bat.cfg:22
 msgid "blade"
 msgstr "sabre"
 
@@ -251,8 +251,8 @@ msgstr "sabre"
 msgid "fireball"
 msgstr "boule de feu"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:40 Unrest/units/Forest_Fire.cfg:36
-#: Unrest/units/Elvish_Warrior_Prince.cfg:41
+#: Unrest/units/Elvish_Warrior_King.cfg:40
+#: Unrest/units/Elvish_Warrior_Prince.cfg:41 Unrest/units/Forest_Fire.cfg:36
 msgid "fire"
 msgstr "feu"
 
