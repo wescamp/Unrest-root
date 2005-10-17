@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-07 13:02+0200\n"
+"POT-Creation-Date: 2005-10-17 22:33+0200\n"
 "PO-Revision-Date: 2005-09-13 20:26+0200\n"
 "Last-Translator: Con Salamander (Kovács Dániel) <consalamander@kalandozok."
 "hu>\n"
@@ -13,37 +13,41 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: Unrest.cfg:8
+#: Unrest.cfg:3
 msgid "Unrest in Elfland"
 msgstr "Nyugtalanság Tündeföldön"
 
-#: Unrest.cfg:12
+#: Unrest.cfg:7
 msgid "Soldier"
 msgstr "Katona"
 
-#: Unrest.cfg:12
+#: Unrest.cfg:7
 msgid "(easiest)"
 msgstr "(legkönnyebb)"
 
-#: Unrest.cfg:13
+#: Unrest.cfg:8
 msgid "Prince"
 msgstr "Herceg"
 
-#: Unrest.cfg:14
+#: Unrest.cfg:9
 msgid "(hardest)"
 msgstr "(legnehezebb)"
 
-#: Unrest.cfg:14
+#: Unrest.cfg:9
 msgid "King"
 msgstr "Király"
 
-#: Unrest.cfg:15
+#: Unrest.cfg:10
 msgid ""
 "Play the role of an Elvish Prince as he attempts to save the realm from its "
 "downfall."
 msgstr ""
 "Játszd el egy tünde herceg szerepét, aki megpróbálja megmenteni birodalmát a "
 "bukástól."
+
+#: Unrest/scenarios/Bandit_Invasion.cfg:4
+msgid "Elebren's Assassins"
+msgstr ""
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:50
 msgid "Defeat the assassins"
@@ -60,12 +64,10 @@ msgid "Death of Elebren"
 msgstr "Elebren elesik"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:218
-#: Unrest/scenarios/Bandit_Invasion.cfg:290
 msgid "loyal"
 msgstr "hűséges"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:225
-#: Unrest/scenarios/Bandit_Invasion.cfg:297
 msgid "quick"
 msgstr "gyors"
 
@@ -81,50 +83,56 @@ msgstr "Készülj a halálra, tünde!"
 msgid "What's this? It's a bunch of assassins! Argh, if only Aramir was here!"
 msgstr "Mi ez? Egy csapat orgyilkos! Jajj, bárcsak Aramir itt lenne!"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:314
+#: Unrest/scenarios/Bandit_Invasion.cfg:296
 msgid "Aramir sends word that he and his army will arrive two dawns hence!"
 msgstr ""
 "Aramir azt az üzenetet küldte, hogy a második hajnallal érkezik csapataival!"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:354
+#: Unrest/scenarios/Bandit_Invasion.cfg:336
 msgid "What's going on here?"
 msgstr "Mi folyik itt?"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:358
+#: Unrest/scenarios/Bandit_Invasion.cfg:340
 msgid "I'm being attacked by assassins!"
 msgstr "Megtámadtak az orgyilkosok!"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:362
+#: Unrest/scenarios/Bandit_Invasion.cfg:344
 msgid "That's bad. Prepare to die, assassins!"
 msgstr "Rossz ötlet volt. Készüljetek a halálotokra, orgyilkosok!"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:373
+#: Unrest/scenarios/Orc_Attack.cfg:517
+#: Unrest/scenarios/Bandit_Invasion.cfg:355
 msgid "Argh! Aramir is dead! Now I am doomed!"
 msgstr "Ó, Aramir halott! Elvesztem!"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:386
+#: Unrest/scenarios/Orc_Attack.cfg:531
+#: Unrest/scenarios/Bandit_Invasion.cfg:368
 msgid "No! Without Elebren, our kingdom is doomed!"
 msgstr "Ez nem lehet! Elebren nélkül a birodalom elveszett!"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:402
+#: Unrest/scenarios/Bandit_Invasion.cfg:384
 msgid "Take this, foul invader!"
 msgstr "Fogd, alávaló megszálló!"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:415
+#: Unrest/scenarios/Bandit_Invasion.cfg:397
 msgid "Charge!!!"
 msgstr "Rohaaam!!!"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:428
+#: Unrest/scenarios/Bandit_Invasion.cfg:410
 msgid "Die, you assassin!"
 msgstr "Pusztulj, orgyilkos!"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:435
+#: Unrest/scenarios/Bandit_Invasion.cfg:417
 msgid ""
 "Having crushed their opponents, Aramir and Elebren ruled peacefully for many "
 "years."
 msgstr ""
 "Miután legyőzték ellenfeleiket, Aramir és Elebren éveken át békében "
 "uralkodott."
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:4
+msgid "Elvish Rivalry"
+msgstr ""
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:42
 msgid "Resist until end of turns"
@@ -133,6 +141,74 @@ msgstr "Kitartasz a körök lejártáig"
 #: Unrest/scenarios/Elvish_Rivalry.cfg:50
 msgid "Death of your brother Elebren"
 msgstr "Fivéred, Elebren elesik"
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:84
+#, fuzzy
+msgid "Old King"
+msgstr "Király"
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:122
+msgid "The kingdom of Elf was peaceful, but its king was dying."
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:127
+msgid "On the day he died, he gave a command to his two sons:"
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:132
+msgid ""
+"When I am gone, you two will rule together, for if either of you was to die, "
+"our kingdom would surely be doomed."
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:137
+msgid "But all was not well once the king was dead."
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:163
+msgid "Forget what he said! I am the elder of us, and I shall rule alone!"
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:171
+msgid "No! We must obey his wishes, or our kingdom may fall!"
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:176
+msgid "Such talk! See who rules once you are slain!"
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:205
+msgid "I told you so! You were a fool to defy me!"
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:219
+msgid "Trust our father's wishes, you said. Yes, you will surely fall."
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:233
+msgid "Take this, stupid loyalist!"
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:244
+msgid "Much as I dislike fighting my own kind, I feel it is necessary."
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:258
+msgid "The king's people refuse to aid you in your terrible feud."
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:283
+msgid "I surrender!"
+msgstr ""
+
+#: Unrest/scenarios/Elvish_Rivalry.cfg:325
+msgid "There are the elves, and they're fighting themselves! Get them!"
+msgstr ""
+
+#: Unrest/scenarios/Human_Alliance.cfg:4
+#, fuzzy
+msgid "Alliance against the Orcs"
+msgstr "Legyőzöd az orkokat"
 
 #: Unrest/scenarios/Human_Alliance.cfg:52 Unrest/scenarios/Orc_Attack.cfg:65
 msgid "Defeat the Orcs"
@@ -193,15 +269,42 @@ msgstr "Segíteni fogok megvédeni a váradat."
 msgid "I thank you for your aid, Prince Aramir."
 msgstr "Köszönöm a segítséget, Aramir herceg."
 
-#: Unrest/scenarios/Orc_Attack.cfg:558
+#: Unrest/scenarios/Orc_Attack.cfg:4
+msgid "Orc Attack"
+msgstr ""
+
+#: Unrest/scenarios/Orc_Attack.cfg:238
+msgid ""
+"No! The orcs are coming! Elebren, if you continue this feud, they will slay "
+"us all!"
+msgstr ""
+
+#: Unrest/scenarios/Orc_Attack.cfg:243
+msgid "I suppose we cannot win without joining...."
+msgstr ""
+
+#: Unrest/scenarios/Orc_Attack.cfg:248
+msgid "I swear I will not attack you again."
+msgstr ""
+
+#: Unrest/scenarios/Orc_Attack.cfg:254
+msgid ""
+"Now that you have stopped fighting, your people are willing to pay you taxes."
+msgstr ""
+
+#: Unrest/scenarios/Orc_Attack.cfg:306
+msgid "Pillagers! I require you to burn the forest for me!"
+msgstr ""
+
+#: Unrest/scenarios/Orc_Attack.cfg:561
 msgid "Die, foul Orc!"
 msgstr "Pusztulj, mocskos ork!"
 
-#: Unrest/scenarios/Orc_Attack.cfg:570
+#: Unrest/scenarios/Orc_Attack.cfg:573
 msgid "We've driven the Orcish menace from our forests. Now we--"
 msgstr "Elhárítottuk az ork fenyegetést az erdeinkből. Most--"
 
-#: Unrest/scenarios/Orc_Attack.cfg:584
+#: Unrest/scenarios/Orc_Attack.cfg:587
 msgid ""
 "Elebren! Aramir! We have need of your aid, and call on you to uphold our old "
 "alliance against the Orcs!"
@@ -209,17 +312,17 @@ msgstr ""
 "Elebren! Aramir! Szükségünk van a segítségetekre, fel szeretnénk újítani a "
 "régi szövetséget az orkok ellenében!"
 
-#: Unrest/scenarios/Orc_Attack.cfg:588
+#: Unrest/scenarios/Orc_Attack.cfg:591
 msgid "I'll go help the humans with their orcish problem. Elebren--"
 msgstr "Megyek, és segítek az embereknek az orkok ellen. Elebren--"
 
-#: Unrest/scenarios/Orc_Attack.cfg:597
+#: Unrest/scenarios/Orc_Attack.cfg:600
 msgid ""
 "I'll stay here to put out the fires and defend against any other invaders."
 msgstr ""
 "Itt maradok, kioltani a tüzeket és megvédeni a földet a többi betolakodótól."
 
-#: Unrest/scenarios/Orc_Attack.cfg:603
+#: Unrest/scenarios/Orc_Attack.cfg:606
 msgid ""
 "I'll stay here to clean up after the fires and defend against any other "
 "invaders."
@@ -231,36 +334,36 @@ msgstr ""
 msgid "Elvish Warrior King"
 msgstr "Harcos Tündekirály"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:18
+#: Unrest/units/Elvish_Warrior_King.cfg:17
 #: Unrest/units/Elvish_Warrior_Prince.cfg:18
 msgid "leadership"
 msgstr "hadvezetés"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:28
-#: Unrest/units/Elvish_Warrior_Prince.cfg:29
+#: Unrest/units/Elvish_Warrior_King.cfg:27
+#: Unrest/units/Elvish_Warrior_Prince.cfg:28
 msgid "sword"
 msgstr "kard"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:29 Unrest/units/Nightwing_Bat.cfg:22
-#: Unrest/units/Elvish_Warrior_Prince.cfg:30
+#: Unrest/units/Elvish_Warrior_King.cfg:28 Unrest/units/Nightwing_Bat.cfg:22
+#: Unrest/units/Elvish_Warrior_Prince.cfg:29
 msgid "blade"
 msgstr "penge"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:39
-#: Unrest/units/Elvish_Warrior_Prince.cfg:40
+#: Unrest/units/Elvish_Warrior_King.cfg:38
+#: Unrest/units/Elvish_Warrior_Prince.cfg:39
 msgid "fireball"
 msgstr "tűzgolyó"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:40 Unrest/units/Forest_Fire.cfg:36
-#: Unrest/units/Elvish_Warrior_Prince.cfg:41
+#: Unrest/units/Elvish_Warrior_King.cfg:39 Unrest/units/Forest_Fire.cfg:36
+#: Unrest/units/Elvish_Warrior_Prince.cfg:40
 msgid "fire"
 msgstr "tűz"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:44
+#: Unrest/units/Elvish_Warrior_King.cfg:43
 msgid "magical"
 msgstr "mágikus"
 
-#: Unrest/units/Elvish_Warrior_Prince.cfg:3
+#: Unrest/units/Elvish_Warrior_Prince.cfg:4
 msgid "Elvish Warrior Prince"
 msgstr "Harcos Tündeherceg"
 
