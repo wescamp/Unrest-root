@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-17 22:33+0200\n"
-"PO-Revision-Date: 2005-05-07 17:06+0100\n"
-"Last-Translator: Nils Kneuper <crazy-ivanovic@gmx.net>\n"
+"PO-Revision-Date: 2005-10-17 23:35+0100\n"
+"Last-Translator: Nils Kneuper <crazy - ivanovic AT gmx DOT de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -35,28 +35,26 @@ msgid "King"
 msgstr "König"
 
 #: Unrest.cfg:10
-msgid ""
-"Play the role of an Elvish Prince as he attempts to save the realm from its "
-"downfall."
-msgstr ""
-"Unterstützt einen elfischen Prinzen dabei, sein Reich vor dem Untergang zu "
-"bewahren."
+msgid "Play the role of an Elvish Prince as he attempts to save the realm from its downfall."
+msgstr "Unterstützt einen elfischen Prinzen dabei, sein Reich vor dem Untergang zu bewahren."
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:4
 msgid "Elebren's Assassins"
-msgstr ""
+msgstr "Elenbrens Attentäter"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:50
 msgid "Defeat the assassins"
-msgstr "Besiegt die Assassinen"
+msgstr "Besiegt die Attentäter"
 
 #: Unrest/scenarios/Human_Alliance.cfg:56
-#: Unrest/scenarios/Elvish_Rivalry.cfg:46 Unrest/scenarios/Orc_Attack.cfg:69
+#: Unrest/scenarios/Elvish_Rivalry.cfg:46
+#: Unrest/scenarios/Orc_Attack.cfg:69
 #: Unrest/scenarios/Bandit_Invasion.cfg:54
 msgid "Death of Aramir"
 msgstr "Aramir fällt in der Schlacht"
 
-#: Unrest/scenarios/Orc_Attack.cfg:73 Unrest/scenarios/Bandit_Invasion.cfg:58
+#: Unrest/scenarios/Orc_Attack.cfg:73
+#: Unrest/scenarios/Bandit_Invasion.cfg:58
 msgid "Death of Elebren"
 msgstr "Elebren fällt in der Schlacht"
 
@@ -78,13 +76,11 @@ msgstr "Macht euch auf den Tod gefasst, Elf!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:267
 msgid "What's this? It's a bunch of assassins! Argh, if only Aramir was here!"
-msgstr "Was ist das? Eine Gruppe Attentäter! Wäre doch Aramit hier!"
+msgstr "Was ist das? Eine Gruppe Attentäter! Wäre doch Aramir hier!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:296
 msgid "Aramir sends word that he and his army will arrive two dawns hence!"
-msgstr ""
-"Aramir hat in einer Nachtricht behauptet, er wäre mit seiner Armee in zwei "
-"Tagen bei Tagesanbruch hier!"
+msgstr "Aramir hat in einer Nachtricht behauptet, er wäre mit seiner Armee in zwei Tagen bei Tagesanbruch hier!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:336
 msgid "What's going on here?"
@@ -92,7 +88,7 @@ msgstr "Was geht hier vor sich?"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:340
 msgid "I'm being attacked by assassins!"
-msgstr "Ich werde von Assassinen angegriffen!"
+msgstr "Ich werde von Attentätern angegriffen!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:344
 msgid "That's bad. Prepare to die, assassins!"
@@ -118,19 +114,15 @@ msgstr "Angriff!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:410
 msgid "Die, you assassin!"
-msgstr "Stirb, Assassine!"
+msgstr "Stirb, Attentäter!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:417
-msgid ""
-"Having crushed their opponents, Aramir and Elebren ruled peacefully for many "
-"years."
-msgstr ""
-"Nachdem sie ihre Wiedersacher besiegt hatten, regierten Aramir und Elebren "
-"für viele Jahre im Frieden."
+msgid "Having crushed their opponents, Aramir and Elebren ruled peacefully for many years."
+msgstr "Nachdem sie ihre Wiedersacher besiegt hatten, regierten Aramir und Elebren für viele Jahre im Frieden."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:4
 msgid "Elvish Rivalry"
-msgstr ""
+msgstr "Elfische Rivalen"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:42
 msgid "Resist until end of turns"
@@ -141,74 +133,71 @@ msgid "Death of your brother Elebren"
 msgstr "Euer Bruder Elebren fällt in der Schlacht"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:84
-#, fuzzy
 msgid "Old King"
-msgstr "König"
+msgstr "Alter König"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:122
 msgid "The kingdom of Elf was peaceful, but its king was dying."
-msgstr ""
+msgstr "Das Königreich der Elfen war friedvoll, doch sein König lag im Sterben."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:127
 msgid "On the day he died, he gave a command to his two sons:"
-msgstr ""
+msgstr "Am Tag seines Todes übergab er seinen beiden Söhnen die Regentschaft:"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:132
-msgid ""
-"When I am gone, you two will rule together, for if either of you was to die, "
-"our kingdom would surely be doomed."
-msgstr ""
+msgid "When I am gone, you two will rule together, for if either of you was to die, our kingdom would surely be doomed."
+msgstr "Wenn meine Zeit abgelaufen ist werdet ihr beide zusammen herrschen. Sollte einer von euch sterben, so ist unser Königreich mit Sicherheit dem Untergang geweiht."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:137
 msgid "But all was not well once the king was dead."
-msgstr ""
+msgstr "Doch nach dem Tod des Königs lief nicht alles wie gedacht."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:163
 msgid "Forget what he said! I am the elder of us, and I shall rule alone!"
-msgstr ""
+msgstr "Vergiss was er gesagt hat! Ich bin der Ältere und deshalb ist es meine Aufgabe alleine zu herrschen!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:171
 msgid "No! We must obey his wishes, or our kingdom may fall!"
-msgstr ""
+msgstr "Nein! Wir müssen seinen Wünschen Folge leisten, sonst wird unser Reich untergehen!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:176
 msgid "Such talk! See who rules once you are slain!"
-msgstr ""
+msgstr "Leeres gerede! Wir werden sehen wer herrscht, wenn du erst besiegt bist!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:205
 msgid "I told you so! You were a fool to defy me!"
-msgstr ""
+msgstr "Ich habe es dir gesagt! Du warst ein Narr mich herrauszufordern!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:219
 msgid "Trust our father's wishes, you said. Yes, you will surely fall."
-msgstr ""
+msgstr "Und du meinst ich solle dem Wunsch unseres Vaters vertrauen. Ja, du wirst mit Sicherheit sterben."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:233
 msgid "Take this, stupid loyalist!"
-msgstr ""
+msgstr "Nimm das, elendiger Loyalist!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:244
 msgid "Much as I dislike fighting my own kind, I feel it is necessary."
-msgstr ""
+msgstr "Ich verabscheue es gegen meine Brüder und Schwestern zu kämpfen, doch weiß ich, dass es nötig ist."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:258
 msgid "The king's people refuse to aid you in your terrible feud."
-msgstr ""
+msgstr "Die Mannen des Königs weigern sich, euch bei eurer Fehde behilflich zu sein."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:283
 msgid "I surrender!"
-msgstr ""
+msgstr "Ich ergebe mich!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:325
 msgid "There are the elves, and they're fighting themselves! Get them!"
-msgstr ""
+msgstr "Dort sind die Elfen. Sie bekämpfen sich gegenseitig! Knöpft sie euch vor!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:4
-#, fuzzy
 msgid "Alliance against the Orcs"
-msgstr "Besiegt die Orks"
+msgstr "Bündnis wider den Orks"
 
-#: Unrest/scenarios/Human_Alliance.cfg:52 Unrest/scenarios/Orc_Attack.cfg:65
+#: Unrest/scenarios/Human_Alliance.cfg:52
+#: Unrest/scenarios/Orc_Attack.cfg:65
 msgid "Defeat the Orcs"
 msgstr "Besiegt die Orks"
 
@@ -217,37 +206,24 @@ msgid "Death of Tyragon"
 msgstr "Tyragon fällt in der Schlacht"
 
 #: Unrest/scenarios/Human_Alliance.cfg:197
-msgid ""
-"Aramir arrived just in time. The castle of the general Tyragon was already "
-"under siege."
-msgstr ""
-"Aramir ist gerade noch rechtzeitig erschienen. Die Festung von Gerneral "
-"Tyragon wurde bereits belagert."
+msgid "Aramir arrived just in time. The castle of the general Tyragon was already under siege."
+msgstr "Aramir ist gerade noch rechtzeitig erschienen. Die Festung von Gerneral Tyragon wurde bereits belagert."
 
 #: Unrest/scenarios/Human_Alliance.cfg:201
-msgid ""
-"Come quickly! The Orcs have destroyed my outposts and are attacking my "
-"castle!"
-msgstr ""
-"Kommt schnell! Die Orks haben meine Außenposten zerstört und greifen nun "
-"meine Festung an!"
+msgid "Come quickly! The Orcs have destroyed my outposts and are attacking my castle!"
+msgstr "Kommt schnell! Die Orks haben meine Außenposten zerstört und greifen nun meine Festung an!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:205
 msgid "I'm coming as fast as I can! Hold them off as best you can!"
 msgstr "Ich komme so schnell ich kann! Gebt euer bestes sie zurückzuhalten!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:209
-msgid ""
-"I have to stay in here and defend my castle, so I can't help you defeat the "
-"Orcs."
-msgstr ""
-"Ich muss mich hier drinnen verschanzen, um meine Festung zu verteidigen. Ich "
-"werde euch also keine Hilfe im Kampf gegen die Orks sein."
+msgid "I have to stay in here and defend my castle, so I can't help you defeat the Orcs."
+msgstr "Ich muss mich hier drinnen verschanzen, um meine Festung zu verteidigen. Ich werde euch also keine Hilfe im Kampf gegen die Orks sein."
 
 #: Unrest/scenarios/Human_Alliance.cfg:219
 msgid "No! Both my kingdom and Tyragon's people are doomed now!"
-msgstr ""
-"Neiiiinnn! Sowohl mein Königreich als auch Tyragon's Leute sind nun verloren!"
+msgstr "Neiiiinnn! Sowohl mein Königreich als auch Tyragon's Leute sind nun verloren!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:232
 msgid "How could I fall to such as these..."
@@ -271,30 +247,27 @@ msgstr "Ich danke euch für eure Hilfe, Prinz Aramir."
 
 #: Unrest/scenarios/Orc_Attack.cfg:4
 msgid "Orc Attack"
-msgstr ""
+msgstr "Orkischer Angriff"
 
 #: Unrest/scenarios/Orc_Attack.cfg:238
-msgid ""
-"No! The orcs are coming! Elebren, if you continue this feud, they will slay "
-"us all!"
-msgstr ""
+msgid "No! The orcs are coming! Elebren, if you continue this feud, they will slay us all!"
+msgstr "Oh nein, die Orks kommen! Elebren, wenn du diese Fehde fortführst werden sie uns alle abschlachten!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:243
 msgid "I suppose we cannot win without joining...."
-msgstr ""
+msgstr "Ich schätze nicht, dass wir gewinnen können, wenn wir nicht zusammenarbeiten..."
 
 #: Unrest/scenarios/Orc_Attack.cfg:248
 msgid "I swear I will not attack you again."
-msgstr ""
+msgstr "Ich schwöre, dass ich dich nie wieder angreifen werde."
 
 #: Unrest/scenarios/Orc_Attack.cfg:254
-msgid ""
-"Now that you have stopped fighting, your people are willing to pay you taxes."
-msgstr ""
+msgid "Now that you have stopped fighting, your people are willing to pay you taxes."
+msgstr "Nun da ihr eure Kämpfe eingestellt habt, ist euer Volk bereit, euch mit Steuern zu unterstützen."
 
 #: Unrest/scenarios/Orc_Attack.cfg:306
 msgid "Pillagers! I require you to burn the forest for me!"
-msgstr ""
+msgstr "Plünderer! Brennt die Wälder für mich nieder!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:561
 msgid "Die, foul Orc!"
@@ -302,38 +275,23 @@ msgstr "Stirb, elendiger Ork!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:573
 msgid "We've driven the Orcish menace from our forests. Now we--"
-msgstr ""
-"Wir haben die orkische Bedrohung aus euren Wäldern beseitigt. Nun werden "
-"wir--"
+msgstr "Wir haben die orkische Bedrohung aus euren Wäldern beseitigt. Nun werden wir--"
 
 #: Unrest/scenarios/Orc_Attack.cfg:587
-msgid ""
-"Elebren! Aramir! We have need of your aid, and call on you to uphold our old "
-"alliance against the Orcs!"
-msgstr ""
-"Elebren! Aramir! Wir brauchen eure Hilfe. Gedenkt der alten Allianz gegen "
-"die Orks!"
+msgid "Elebren! Aramir! We have need of your aid, and call on you to uphold our old alliance against the Orcs!"
+msgstr "Elebren! Aramir! Wir brauchen eure Hilfe. Gedenkt der alten Allianz wider den Orks!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:591
 msgid "I'll go help the humans with their orcish problem. Elebren--"
-msgstr ""
-"Ich werde gehen und den Menschen mit ihrem orkischen Problem helfen. "
-"Elebren--"
+msgstr "Ich werde gehen und den Menschen mit ihrem orkischen Problem helfen. Elebren--"
 
 #: Unrest/scenarios/Orc_Attack.cfg:600
-msgid ""
-"I'll stay here to put out the fires and defend against any other invaders."
-msgstr ""
-"Ich werde hier bleiben, die Feuer löschen und das Land gegen andere "
-"Invasoren verteidigen."
+msgid "I'll stay here to put out the fires and defend against any other invaders."
+msgstr "Ich werde hier bleiben, die Feuer löschen und das Land gegen andere Invasoren verteidigen."
 
 #: Unrest/scenarios/Orc_Attack.cfg:606
-msgid ""
-"I'll stay here to clean up after the fires and defend against any other "
-"invaders."
-msgstr ""
-"Ich werde hier bleiben um die Reste der Feuer zu beseitigen und uns gegen "
-"andere Invasoren zu verteidigen."
+msgid "I'll stay here to clean up after the fires and defend against any other invaders."
+msgstr "Ich werde hier bleiben um die Reste der Feuer zu beseitigen und uns gegen andere Invasoren zu verteidigen."
 
 #: Unrest/units/Elvish_Warrior_King.cfg:3
 msgid "Elvish Warrior King"
@@ -349,7 +307,8 @@ msgstr "Führungsqualitäten"
 msgid "sword"
 msgstr "Schwert"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:28 Unrest/units/Nightwing_Bat.cfg:22
+#: Unrest/units/Elvish_Warrior_King.cfg:28
+#: Unrest/units/Nightwing_Bat.cfg:22
 #: Unrest/units/Elvish_Warrior_Prince.cfg:29
 msgid "blade"
 msgstr "Klinge"
@@ -359,7 +318,8 @@ msgstr "Klinge"
 msgid "fireball"
 msgstr "Feuerball"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:39 Unrest/units/Forest_Fire.cfg:36
+#: Unrest/units/Elvish_Warrior_King.cfg:39
+#: Unrest/units/Forest_Fire.cfg:36
 #: Unrest/units/Elvish_Warrior_Prince.cfg:40
 msgid "fire"
 msgstr "Feuer"
@@ -390,8 +350,7 @@ msgstr "Nachtschatten"
 
 #: Unrest/units/Nightwing_Bat.cfg:18
 msgid "They're invisible at night and they suck your blood! Fear them!"
-msgstr ""
-"Sie sind unsichtbar bei Nacht und saugen euch das Blut aus! Fürchtet sie!"
+msgstr "Sie sind unsichtbar bei Nacht und saugen euch das Blut aus! Fürchtet sie!"
 
 #: Unrest/units/Nightwing_Bat.cfg:21
 msgid "fangs"
@@ -400,3 +359,4 @@ msgstr "Fänge"
 #: Unrest/units/Nightwing_Bat.cfg:26
 msgid "drain"
 msgstr "Lebensentzug"
+
