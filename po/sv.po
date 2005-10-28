@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-17 22:33+0200\n"
-"PO-Revision-Date: 2005-05-30 14:22+0200\n"
-"Last-Translator: tephlon\n"
+"PO-Revision-Date: 2005-10-28 12:01+0200\n"
+"Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Unrest.cfg:3
 msgid "Unrest in Elfland"
@@ -44,7 +44,7 @@ msgstr "En alvprins försöker rädda sitt rike från att falla samman."
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:4
 msgid "Elebren's Assassins"
-msgstr ""
+msgstr "Elebrens lönnmördare"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:50
 msgid "Defeat the assassins"
@@ -130,7 +130,7 @@ msgstr ""
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:4
 msgid "Elvish Rivalry"
-msgstr ""
+msgstr "Alvernas fejd"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:42
 msgid "Resist until end of turns"
@@ -141,72 +141,75 @@ msgid "Death of your brother Elebren"
 msgstr "Din bror Elebren dör"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:84
-#, fuzzy
 msgid "Old King"
-msgstr "Kung"
+msgstr "Den gamla kungen"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:122
 msgid "The kingdom of Elf was peaceful, but its king was dying."
-msgstr ""
+msgstr "Alvernas kungadöme var fridfullt, men kungen var döende."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:127
 msgid "On the day he died, he gave a command to his two sons:"
-msgstr ""
+msgstr "På sin dödsdag gav han sina två söner en order:"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:132
 msgid ""
 "When I am gone, you two will rule together, for if either of you was to die, "
 "our kingdom would surely be doomed."
 msgstr ""
+"När jag är borta skall ni två regera tillsammans, för om en av er dör så "
+"kommer vårt rike att gå under."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:137
 msgid "But all was not well once the king was dead."
-msgstr ""
+msgstr "Men när kungen hade dött gick det inte som det var tänkt."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:163
 msgid "Forget what he said! I am the elder of us, and I shall rule alone!"
-msgstr ""
+msgstr "Glöm vad han sa! Jag är den äldste av oss, jag skall regera ensam!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:171
 msgid "No! We must obey his wishes, or our kingdom may fall!"
-msgstr ""
+msgstr "Nej! Vi måste hörsamma hans önskemål, annars kan vårt rike gå under!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:176
 msgid "Such talk! See who rules once you are slain!"
-msgstr ""
+msgstr "Snick-snack! Se vem som regerar när du är död!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:205
 msgid "I told you so! You were a fool to defy me!"
-msgstr ""
+msgstr "Det var ju det jag sa! Du, din dåre, som vågade trotsa mig!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:219
 msgid "Trust our father's wishes, you said. Yes, you will surely fall."
 msgstr ""
+"Lita på fars önskemål, sa du. Ja, du kommer alldeles säkert att gå under."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:233
 msgid "Take this, stupid loyalist!"
-msgstr ""
+msgstr "Smaka på det här, dumma lojalist!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:244
 msgid "Much as I dislike fighting my own kind, I feel it is necessary."
 msgstr ""
+"Även om jag högeligen ogillar att slåss mot mitt eget släkte, så finner jag "
+"det nödvändigt."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:258
 msgid "The king's people refuse to aid you in your terrible feud."
-msgstr ""
+msgstr "Kungens folk vägrar att bistå er i er ohedersamma fejd."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:283
 msgid "I surrender!"
-msgstr ""
+msgstr "Jag ger mig!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:325
 msgid "There are the elves, and they're fighting themselves! Get them!"
-msgstr ""
+msgstr "Där är de, alverna, och de slåss sinsemellan! På dem!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:4
-#, fuzzy
 msgid "Alliance against the Orcs"
-msgstr "Besegra orcherna"
+msgstr "Allians mot orcherna"
 
 #: Unrest/scenarios/Human_Alliance.cfg:52 Unrest/scenarios/Orc_Attack.cfg:65
 msgid "Defeat the Orcs"
@@ -268,30 +271,32 @@ msgstr "Jag tackar dig för din hjälp, prins Aramir."
 
 #: Unrest/scenarios/Orc_Attack.cfg:4
 msgid "Orc Attack"
-msgstr ""
+msgstr "Orchernas anfall"
 
 #: Unrest/scenarios/Orc_Attack.cfg:238
 msgid ""
 "No! The orcs are coming! Elebren, if you continue this feud, they will slay "
 "us all!"
 msgstr ""
+"Nej! Orcherna kommer! Elebren, om ni fortsätter den här fejden så kommer de "
+"att dräpa oss alla!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:243
 msgid "I suppose we cannot win without joining...."
-msgstr ""
+msgstr "Jag antar att vi inte kan vinna utan att gå med..."
 
 #: Unrest/scenarios/Orc_Attack.cfg:248
 msgid "I swear I will not attack you again."
-msgstr ""
+msgstr "Jag svär att jag inte kommer att anfall dig igen."
 
 #: Unrest/scenarios/Orc_Attack.cfg:254
 msgid ""
 "Now that you have stopped fighting, your people are willing to pay you taxes."
-msgstr ""
+msgstr "Nu när ni har slutat strida är ert folk villiga att betala skatt igen."
 
 #: Unrest/scenarios/Orc_Attack.cfg:306
 msgid "Pillagers! I require you to burn the forest for me!"
-msgstr ""
+msgstr "Rövare! Bränn skogen för mig!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:561
 msgid "Die, foul Orc!"
