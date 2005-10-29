@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-17 22:33+0200\n"
 "PO-Revision-Date: 2005-05-07 13:02+0200\n"
-"Last-Translator: Automatically generated\n"
+"Last-Translator: Anežka Bubeníčková\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,33 +13,34 @@ msgstr ""
 
 #: Unrest.cfg:3
 msgid "Unrest in Elfland"
-msgstr ""
+msgstr "Nepokoje v Elfí zemi"
 
 #: Unrest.cfg:7
 msgid "Soldier"
-msgstr ""
+msgstr "Voják"
 
 #: Unrest.cfg:7
 msgid "(easiest)"
-msgstr ""
+msgstr "(nejlehčí)"
 
 #: Unrest.cfg:8
 msgid "Prince"
-msgstr ""
+msgstr "Princ"
 
 #: Unrest.cfg:9
 msgid "(hardest)"
-msgstr ""
+msgstr "(nejtežší)"
 
 #: Unrest.cfg:9
 msgid "King"
-msgstr ""
+msgstr "Král"
 
 #: Unrest.cfg:10
 msgid ""
 "Play the role of an Elvish Prince as he attempts to save the realm from its "
 "downfall."
 msgstr ""
+"Hraj za elfského prince, který se snaží zachránit království před zkázou."
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:4
 msgid "Elebren's Assassins"
@@ -47,81 +48,82 @@ msgstr ""
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:50
 msgid "Defeat the assassins"
-msgstr ""
+msgstr "Poraž vrahy"
 
 #: Unrest/scenarios/Human_Alliance.cfg:56
 #: Unrest/scenarios/Elvish_Rivalry.cfg:46 Unrest/scenarios/Orc_Attack.cfg:69
 #: Unrest/scenarios/Bandit_Invasion.cfg:54
 msgid "Death of Aramir"
-msgstr ""
+msgstr "Aramir zemře"
 
 #: Unrest/scenarios/Orc_Attack.cfg:73 Unrest/scenarios/Bandit_Invasion.cfg:58
 msgid "Death of Elebren"
-msgstr ""
+msgstr "Elebren zemře"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:218
 msgid "loyal"
-msgstr ""
+msgstr "věrný"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:225
 msgid "quick"
-msgstr ""
+msgstr "rychlý"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:259
 msgid "Phew, cleaning up those fires was tiring."
-msgstr ""
+msgstr "Fuj, odstraňování tech ohňů bylo vyčerpávající."
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:263
 msgid "Prepare to die, elf!"
-msgstr ""
+msgstr "Připrav se zemřít, elfe!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:267
 msgid "What's this? It's a bunch of assassins! Argh, if only Aramir was here!"
-msgstr ""
+msgstr "Co je tohle? Skupina vrahů! Kdyby tu jen byl Aramir!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:296
 msgid "Aramir sends word that he and his army will arrive two dawns hence!"
-msgstr ""
+msgstr "Aramir vzkazuje, že dorazí za dva dny i s armádou!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:336
 msgid "What's going on here?"
-msgstr ""
+msgstr "Co se tu děje?"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:340
 msgid "I'm being attacked by assassins!"
-msgstr ""
+msgstr "Útočí na mě vrazi!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:344
 msgid "That's bad. Prepare to die, assassins!"
-msgstr ""
+msgstr "To je špatné. Připravte se zemřít, vrazi!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:517
 #: Unrest/scenarios/Bandit_Invasion.cfg:355
 msgid "Argh! Aramir is dead! Now I am doomed!"
-msgstr ""
+msgstr "Aramir zemřel! Teď je můj osud zpečetěn!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:531
 #: Unrest/scenarios/Bandit_Invasion.cfg:368
 msgid "No! Without Elebren, our kingdom is doomed!"
-msgstr ""
+msgstr "Ne! Bez Elebrena je naše království ztraceno!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:384
 msgid "Take this, foul invader!"
-msgstr ""
+msgstr "Sežer si to, hnusný nájezdníku!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:397
 msgid "Charge!!!"
-msgstr ""
+msgstr "Útok!!!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:410
 msgid "Die, you assassin!"
-msgstr ""
+msgstr "Zemři, vrahu!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:417
 msgid ""
 "Having crushed their opponents, Aramir and Elebren ruled peacefully for many "
 "years."
 msgstr ""
+"Poté co zničili své nepřátele, vládli Aramir a Elebren pokojně po mnoho let."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:4
 msgid "Elvish Rivalry"
@@ -129,15 +131,16 @@ msgstr ""
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:42
 msgid "Resist until end of turns"
-msgstr ""
+msgstr "Vydrž do konce tahů"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:50
 msgid "Death of your brother Elebren"
-msgstr ""
+msgstr "Tvůj bratr Elebren zemře"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:84
+#, fuzzy
 msgid "Old King"
-msgstr ""
+msgstr "Král"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:122
 msgid "The kingdom of Elf was peaceful, but its king was dying."
@@ -198,62 +201,65 @@ msgid "There are the elves, and they're fighting themselves! Get them!"
 msgstr ""
 
 #: Unrest/scenarios/Human_Alliance.cfg:4
+#, fuzzy
 msgid "Alliance against the Orcs"
-msgstr ""
+msgstr "Poraž skřety"
 
 #: Unrest/scenarios/Human_Alliance.cfg:52 Unrest/scenarios/Orc_Attack.cfg:65
 msgid "Defeat the Orcs"
-msgstr ""
+msgstr "Poraž skřety"
 
 #: Unrest/scenarios/Human_Alliance.cfg:60
 msgid "Death of Tyragon"
-msgstr ""
+msgstr "Tyragon zemře"
 
 #: Unrest/scenarios/Human_Alliance.cfg:197
 msgid ""
 "Aramir arrived just in time. The castle of the general Tyragon was already "
 "under siege."
-msgstr ""
+msgstr "Aramir dorazil právě včas. Hrad generála Tyragona byl již v obležení."
 
 #: Unrest/scenarios/Human_Alliance.cfg:201
 msgid ""
 "Come quickly! The Orcs have destroyed my outposts and are attacking my "
 "castle!"
 msgstr ""
+"Pospěš si! Skřeti zničili moje předsunuté základny a útočí na můj hrad!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:205
 msgid "I'm coming as fast as I can! Hold them off as best you can!"
-msgstr ""
+msgstr "Přijdu, jak nerychleji to půjde! Zatím je zadrž!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:209
 msgid ""
 "I have to stay in here and defend my castle, so I can't help you defeat the "
 "Orcs."
 msgstr ""
+"Musím zůstat tady a bránit svůj hrad, takže ti nemůžu pomoct porazit Skřety."
 
 #: Unrest/scenarios/Human_Alliance.cfg:219
 msgid "No! Both my kingdom and Tyragon's people are doomed now!"
-msgstr ""
+msgstr "Ne! Moje království i Tyragonovi lidé jsdou teď ztraceni!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:232
 msgid "How could I fall to such as these..."
-msgstr ""
+msgstr "Jak jsem mohl prohrát proti takovým jako tihle..."
 
 #: Unrest/scenarios/Human_Alliance.cfg:245
 msgid "You shall die, foolish Orc."
-msgstr ""
+msgstr "Zemřeš, pošetilý Skřete."
 
 #: Unrest/scenarios/Human_Alliance.cfg:255
 msgid "I strike a blow for the old alliance!"
-msgstr ""
+msgstr "Za starou alianci!!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:267
 msgid "I'll help you defend your castle."
-msgstr ""
+msgstr "Pomohu ti bránit tvůj hrad."
 
 #: Unrest/scenarios/Human_Alliance.cfg:274
 msgid "I thank you for your aid, Prince Aramir."
-msgstr ""
+msgstr "Děkuji za tvou pomoc, princi Aramire."
 
 #: Unrest/scenarios/Orc_Attack.cfg:4
 msgid "Orc Attack"
@@ -284,94 +290,99 @@ msgstr ""
 
 #: Unrest/scenarios/Orc_Attack.cfg:561
 msgid "Die, foul Orc!"
-msgstr ""
+msgstr "Zemři, odporný skřete!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:573
 msgid "We've driven the Orcish menace from our forests. Now we--"
-msgstr ""
+msgstr "Vyhnali jsme skřetí hrozbu z našich lesů. Teď--"
 
 #: Unrest/scenarios/Orc_Attack.cfg:587
 msgid ""
 "Elebren! Aramir! We have need of your aid, and call on you to uphold our old "
 "alliance against the Orcs!"
 msgstr ""
+"Elebrene! Aramire! Potřebujeme vaši pomoc a vyzývám vás, abyste udrželi naše "
+"staré spojenectví proti Skřetům!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:591
 msgid "I'll go help the humans with their orcish problem. Elebren--"
-msgstr ""
+msgstr "Půjdu pomoct lidem s jejich skřetím problémem. Elebrene--"
 
 #: Unrest/scenarios/Orc_Attack.cfg:600
 msgid ""
 "I'll stay here to put out the fires and defend against any other invaders."
 msgstr ""
+"Zůstanu tady, abych uhasil ohně a bránil před dalšími možnými vetřelci."
 
 #: Unrest/scenarios/Orc_Attack.cfg:606
 msgid ""
 "I'll stay here to clean up after the fires and defend against any other "
 "invaders."
 msgstr ""
+"Zůstanu tady, abych napravil škody po ohních a bránil před dalšími možnými "
+"nájezdníky."
 
 #: Unrest/units/Elvish_Warrior_King.cfg:3
 msgid "Elvish Warrior King"
-msgstr ""
+msgstr "Elfský válečný král"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:17
 #: Unrest/units/Elvish_Warrior_Prince.cfg:18
 msgid "leadership"
-msgstr ""
+msgstr "velení"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:27
 #: Unrest/units/Elvish_Warrior_Prince.cfg:28
 msgid "sword"
-msgstr ""
+msgstr "meč"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:28 Unrest/units/Nightwing_Bat.cfg:22
 #: Unrest/units/Elvish_Warrior_Prince.cfg:29
 msgid "blade"
-msgstr ""
+msgstr "čepel"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:38
 #: Unrest/units/Elvish_Warrior_Prince.cfg:39
 msgid "fireball"
-msgstr ""
+msgstr "ohnivá koule"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:39 Unrest/units/Forest_Fire.cfg:36
 #: Unrest/units/Elvish_Warrior_Prince.cfg:40
 msgid "fire"
-msgstr ""
+msgstr "oheň"
 
 #: Unrest/units/Elvish_Warrior_King.cfg:43
 msgid "magical"
-msgstr ""
+msgstr "magický"
 
 #: Unrest/units/Elvish_Warrior_Prince.cfg:4
 msgid "Elvish Warrior Prince"
-msgstr ""
+msgstr "Elfský válečný princ"
 
 #: Unrest/units/Forest_Fire.cfg:3
 msgid "Forest Fire"
-msgstr ""
+msgstr "Lesní požár"
 
 #: Unrest/units/Forest_Fire.cfg:35
 msgid "burn"
-msgstr ""
+msgstr "spálení"
 
 #: Unrest/units/Nightwing_Bat.cfg:4
 msgid "Nightwing Bat"
-msgstr ""
+msgstr "Netopýr noční letec"
 
 #: Unrest/units/Nightwing_Bat.cfg:17
 msgid "nightstalk"
-msgstr ""
+msgstr "noční lovec"
 
 #: Unrest/units/Nightwing_Bat.cfg:18
 msgid "They're invisible at night and they suck your blood! Fear them!"
-msgstr ""
+msgstr "V noci jsou neviditelní a sají tvou krev! Střez se jich!"
 
 #: Unrest/units/Nightwing_Bat.cfg:21
 msgid "fangs"
-msgstr ""
+msgstr "tesáky"
 
 #: Unrest/units/Nightwing_Bat.cfg:26
 msgid "drain"
-msgstr ""
+msgstr "vysátí"
