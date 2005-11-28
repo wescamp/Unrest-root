@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-17 22:33+0200\n"
-"PO-Revision-Date: 2005-05-07 13:02+0200\n"
-"Last-Translator: Anežka Bubeníčková\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2005-11-18 19:37+0200\n"
+"Last-Translator: Anežka Bubeníčková <masozravapalma@gmail.com>\n"
+"Language-Team: Czech Team <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -44,7 +44,7 @@ msgstr ""
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:4
 msgid "Elebren's Assassins"
-msgstr ""
+msgstr "Elebrenovi vrazi"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:50
 msgid "Defeat the assassins"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:4
 msgid "Elvish Rivalry"
-msgstr ""
+msgstr "Elfí soupeření"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:42
 msgid "Resist until end of turns"
@@ -138,72 +138,73 @@ msgid "Death of your brother Elebren"
 msgstr "Tvůj bratr Elebren zemře"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:84
-#, fuzzy
 msgid "Old King"
-msgstr "Král"
+msgstr "Starý král"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:122
 msgid "The kingdom of Elf was peaceful, but its king was dying."
-msgstr ""
+msgstr "Království elfů bylo plné pohody, ale jeho král umíral."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:127
 msgid "On the day he died, he gave a command to his two sons:"
-msgstr ""
+msgstr "Toho dne, kdy zemřel, dal svým dvěma synům příkaz:"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:132
 msgid ""
 "When I am gone, you two will rule together, for if either of you was to die, "
 "our kingdom would surely be doomed."
 msgstr ""
+"Až zemřu budete vládnout spolu, protože naše království by bylo jistě "
+"odsouzeno ke zkáze, pokud by některý z vás zemřel."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:137
 msgid "But all was not well once the king was dead."
-msgstr ""
+msgstr "Ale když král zemřel, všechno se pokazilo."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:163
 msgid "Forget what he said! I am the elder of us, and I shall rule alone!"
-msgstr ""
+msgstr "Zapomeň na to, co říkal! Jsem starší a budu vládnout sám!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:171
 msgid "No! We must obey his wishes, or our kingdom may fall!"
-msgstr ""
+msgstr "Ne! Musíme se řídit jeho přáním, nebo naše království padne!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:176
 msgid "Such talk! See who rules once you are slain!"
-msgstr ""
+msgstr "Kecy! Uvidíš, kdo bude vládnout, až budeš zabit!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:205
 msgid "I told you so! You were a fool to defy me!"
-msgstr ""
+msgstr "Říkal jsem ti to! Bylo bláznovstvím postavit se mi na odpor!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:219
 msgid "Trust our father's wishes, you said. Yes, you will surely fall."
-msgstr ""
+msgstr "Říkal jsi, věř přáním našeho otce. Ano, jistě padneš."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:233
 msgid "Take this, stupid loyalist!"
-msgstr ""
+msgstr "Sežer si to, hloupý záprtku!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:244
 msgid "Much as I dislike fighting my own kind, I feel it is necessary."
 msgstr ""
+"Přestože velice nerad bojuji proti vlastním lidem, cítím, že je to nutné."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:258
 msgid "The king's people refuse to aid you in your terrible feud."
-msgstr ""
+msgstr "Královi lidé ti odmítli pomoci ve vašem hrozném sporu."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:283
 msgid "I surrender!"
-msgstr ""
+msgstr "Vzdávám se!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:325
 msgid "There are the elves, and they're fighting themselves! Get them!"
-msgstr ""
+msgstr "Jsou tu elfové a bojují mezi sebou! Dostaňte je!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:4
-#, fuzzy
 msgid "Alliance against the Orcs"
-msgstr "Poraž skřety"
+msgstr "Spojenectví proti Skřetům"
 
 #: Unrest/scenarios/Human_Alliance.cfg:52 Unrest/scenarios/Orc_Attack.cfg:65
 msgid "Defeat the Orcs"
@@ -263,30 +264,34 @@ msgstr "Děkuji za tvou pomoc, princi Aramire."
 
 #: Unrest/scenarios/Orc_Attack.cfg:4
 msgid "Orc Attack"
-msgstr ""
+msgstr "Skřetí útok"
 
 #: Unrest/scenarios/Orc_Attack.cfg:238
 msgid ""
 "No! The orcs are coming! Elebren, if you continue this feud, they will slay "
 "us all!"
 msgstr ""
+"Ne! Přicházejí skřeti! Elebrene, pokud budeš pokračovat v tomto sporu, "
+"zabijí nás všechny."
 
 #: Unrest/scenarios/Orc_Attack.cfg:243
 msgid "I suppose we cannot win without joining...."
-msgstr ""
+msgstr "Myslím, že nemůžeme vyhrát, když se nespojíme...."
 
 #: Unrest/scenarios/Orc_Attack.cfg:248
 msgid "I swear I will not attack you again."
-msgstr ""
+msgstr "Přísahám, že na tebe znovu nezaútočím."
 
 #: Unrest/scenarios/Orc_Attack.cfg:254
 msgid ""
 "Now that you have stopped fighting, your people are willing to pay you taxes."
 msgstr ""
+"Když jste přestali bojovat mezi sebou, vaši lidé jsou ochotni vám platit "
+"daně."
 
 #: Unrest/scenarios/Orc_Attack.cfg:306
 msgid "Pillagers! I require you to burn the forest for me!"
-msgstr ""
+msgstr "Plenitelé! Chci abyste pro mě spálili les!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:561
 msgid "Die, foul Orc!"
