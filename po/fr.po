@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-17 22:33+0200\n"
-"PO-Revision-Date: 2005-05-07 13:02+0200\n"
-"Last-Translator: blurgk <blurg@gmail.com>\n"
+"PO-Revision-Date: 2005-11-27 11:47+0100\n"
+"Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
 "Language-Team: Language fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,7 +44,7 @@ msgstr ""
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:4
 msgid "Elebren's Assassins"
-msgstr ""
+msgstr "Les assassins d'Elebren"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:50
 msgid "Defeat the assassins"
@@ -62,7 +62,7 @@ msgstr "Mort d'Elebren"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:218
 msgid "loyal"
-msgstr "loyal"
+msgstr "Fidèle"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:225
 msgid "quick"
@@ -84,7 +84,7 @@ msgstr ""
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:296
 msgid "Aramir sends word that he and his army will arrive two dawns hence!"
-msgstr "Aramir fait savoir qu'il arrivera avec son armées d'ici deux aurores !"
+msgstr "Aramir fait savoir qu'il arrivera avec son armée d'ici deux aurores !"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:336
 msgid "What's going on here?"
@@ -130,7 +130,7 @@ msgstr ""
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:4
 msgid "Elvish Rivalry"
-msgstr ""
+msgstr "La rivalité elfique"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:42
 msgid "Resist until end of turns"
@@ -141,72 +141,83 @@ msgid "Death of your brother Elebren"
 msgstr "Mort de votre frère Elebren"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:84
-#, fuzzy
 msgid "Old King"
-msgstr "Roi"
+msgstr "Vieux Roi"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:122
 msgid "The kingdom of Elf was peaceful, but its king was dying."
 msgstr ""
+"Le royaume des Elfes était paisible, mais son roi était en train de mourir."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:127
 msgid "On the day he died, he gave a command to his two sons:"
-msgstr ""
+msgstr "Le jour où il mourrut, il donna un ordre à ses deux fils :"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:132
 msgid ""
 "When I am gone, you two will rule together, for if either of you was to die, "
 "our kingdom would surely be doomed."
 msgstr ""
+"Dès que je partirai, vous deux régneront ensemble, si l'un d'entre-vous "
+"venait à mourir, notre royaume serait à coup sûr détruit."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:137
 msgid "But all was not well once the king was dead."
-msgstr ""
+msgstr "Mais tout n'etait pas parfait lorsque le roi mourut."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:163
 msgid "Forget what he said! I am the elder of us, and I shall rule alone!"
 msgstr ""
+"Oublie ce qu'il a dit ! Je suis le plus agé d'entre-nous, et je dois régner "
+"seul !"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:171
 msgid "No! We must obey his wishes, or our kingdom may fall!"
 msgstr ""
+"Non ! Nous devons respecter ses souhaits, ou notre royaume pourrait tomber !"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:176
 msgid "Such talk! See who rules once you are slain!"
 msgstr ""
+"Que de belles paroles ! Voyons qui va régner une fois que vous serez mort !"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:205
 msgid "I told you so! You were a fool to defy me!"
-msgstr ""
+msgstr "Je vous l'avais dit ! Vous êtiez idiot de me défier !"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:219
 msgid "Trust our father's wishes, you said. Yes, you will surely fall."
 msgstr ""
+"Faites confiance aux voeux de votre père, dîtes-vous. Effectivement, vous "
+"allez sûrement tomber."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:233
 msgid "Take this, stupid loyalist!"
-msgstr ""
+msgstr "Prenez ça stupides loyalistes !"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:244
 msgid "Much as I dislike fighting my own kind, I feel it is necessary."
 msgstr ""
+"Même si je n'aime pas combattre mon propre fils, je sens que cela est "
+"nécessaire."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:258
 msgid "The king's people refuse to aid you in your terrible feud."
 msgstr ""
+"Le peuple du roi refuse de vous prêter main forte dans votre terrible "
+"vendetta."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:283
 msgid "I surrender!"
-msgstr ""
+msgstr "Je me rends !"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:325
 msgid "There are the elves, and they're fighting themselves! Get them!"
-msgstr ""
+msgstr "Il y a des elfes, et en plus ils se battent entre-eux ! Capturer les !"
 
 #: Unrest/scenarios/Human_Alliance.cfg:4
-#, fuzzy
 msgid "Alliance against the Orcs"
-msgstr "Vaincre les orcs"
+msgstr "Alliance contre les Orcs"
 
 #: Unrest/scenarios/Human_Alliance.cfg:52 Unrest/scenarios/Orc_Attack.cfg:65
 msgid "Defeat the Orcs"
@@ -270,30 +281,34 @@ msgstr "Je vous remercie pour votre aide, prince Aramir."
 
 #: Unrest/scenarios/Orc_Attack.cfg:4
 msgid "Orc Attack"
-msgstr ""
+msgstr "L'attaque des orcs"
 
 #: Unrest/scenarios/Orc_Attack.cfg:238
 msgid ""
 "No! The orcs are coming! Elebren, if you continue this feud, they will slay "
 "us all!"
 msgstr ""
+"Oh non ! Les orcs arrivent ! Elebren, si vous continuez cette vendetta, ils "
+"vont tous nous massacrer !"
 
 #: Unrest/scenarios/Orc_Attack.cfg:243
 msgid "I suppose we cannot win without joining...."
-msgstr ""
+msgstr "Je suppose que nous ne pouvons vaincre sans se regrouper..."
 
 #: Unrest/scenarios/Orc_Attack.cfg:248
 msgid "I swear I will not attack you again."
-msgstr ""
+msgstr "Je jure que je ne vous attaquerez plus."
 
 #: Unrest/scenarios/Orc_Attack.cfg:254
 msgid ""
 "Now that you have stopped fighting, your people are willing to pay you taxes."
 msgstr ""
+"Maintenant que vous avez arrêter le combat, votre peuple est prêt à me payer "
+"des impôts."
 
 #: Unrest/scenarios/Orc_Attack.cfg:306
 msgid "Pillagers! I require you to burn the forest for me!"
-msgstr ""
+msgstr "Messieurs le pilleurs ! Je vous demande de brûler la forêt pour moi !"
 
 #: Unrest/scenarios/Orc_Attack.cfg:561
 msgid "Die, foul Orc!"
