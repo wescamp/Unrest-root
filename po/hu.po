@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-17 22:33+0200\n"
+"POT-Creation-Date: 2006-03-13 13:58+0100\n"
 "PO-Revision-Date: 2005-09-13 20:26+0200\n"
 "Last-Translator: Con Salamander (Kovács Dániel) <consalamander@kalandozok."
 "hu>\n"
@@ -53,13 +53,13 @@ msgstr ""
 msgid "Defeat the assassins"
 msgstr "Legyőzöd az orgyilkosokat"
 
+#: Unrest/scenarios/Bandit_Invasion.cfg:54 Unrest/scenarios/Orc_Attack.cfg:69
+#: Unrest/scenarios/Elvish_Rivalry.cfg:46
 #: Unrest/scenarios/Human_Alliance.cfg:56
-#: Unrest/scenarios/Elvish_Rivalry.cfg:46 Unrest/scenarios/Orc_Attack.cfg:69
-#: Unrest/scenarios/Bandit_Invasion.cfg:54
 msgid "Death of Aramir"
 msgstr "Aramir elesik"
 
-#: Unrest/scenarios/Orc_Attack.cfg:73 Unrest/scenarios/Bandit_Invasion.cfg:58
+#: Unrest/scenarios/Bandit_Invasion.cfg:58 Unrest/scenarios/Orc_Attack.cfg:73
 msgid "Death of Elebren"
 msgstr "Elebren elesik"
 
@@ -100,13 +100,13 @@ msgstr "Megtámadtak az orgyilkosok!"
 msgid "That's bad. Prepare to die, assassins!"
 msgstr "Rossz ötlet volt. Készüljetek a halálotokra, orgyilkosok!"
 
-#: Unrest/scenarios/Orc_Attack.cfg:517
 #: Unrest/scenarios/Bandit_Invasion.cfg:355
+#: Unrest/scenarios/Orc_Attack.cfg:517
 msgid "Argh! Aramir is dead! Now I am doomed!"
 msgstr "Ó, Aramir halott! Elvesztem!"
 
-#: Unrest/scenarios/Orc_Attack.cfg:531
 #: Unrest/scenarios/Bandit_Invasion.cfg:368
+#: Unrest/scenarios/Orc_Attack.cfg:531
 msgid "No! Without Elebren, our kingdom is doomed!"
 msgstr "Ez nem lehet! Elebren nélkül a birodalom elveszett!"
 
@@ -210,7 +210,7 @@ msgstr ""
 msgid "Alliance against the Orcs"
 msgstr "Legyőzöd az orkokat"
 
-#: Unrest/scenarios/Human_Alliance.cfg:52 Unrest/scenarios/Orc_Attack.cfg:65
+#: Unrest/scenarios/Orc_Attack.cfg:65 Unrest/scenarios/Human_Alliance.cfg:52
 msgid "Defeat the Orcs"
 msgstr "Legyőzöd az orkokat"
 
@@ -334,28 +334,28 @@ msgstr ""
 msgid "Elvish Warrior King"
 msgstr "Harcos Tündekirály"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:17
 #: Unrest/units/Elvish_Warrior_Prince.cfg:18
+#: Unrest/units/Elvish_Warrior_King.cfg:17
 msgid "leadership"
 msgstr "hadvezetés"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:27
 #: Unrest/units/Elvish_Warrior_Prince.cfg:28
+#: Unrest/units/Elvish_Warrior_King.cfg:27
 msgid "sword"
 msgstr "kard"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:28 Unrest/units/Nightwing_Bat.cfg:22
 #: Unrest/units/Elvish_Warrior_Prince.cfg:29
+#: Unrest/units/Elvish_Warrior_King.cfg:28 Unrest/units/Nightwing_Bat.cfg:22
 msgid "blade"
 msgstr "penge"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:38
 #: Unrest/units/Elvish_Warrior_Prince.cfg:39
+#: Unrest/units/Elvish_Warrior_King.cfg:38
 msgid "fireball"
 msgstr "tűzgolyó"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:39 Unrest/units/Forest_Fire.cfg:36
 #: Unrest/units/Elvish_Warrior_Prince.cfg:40
+#: Unrest/units/Elvish_Warrior_King.cfg:39 Unrest/units/Forest_Fire.cfg:36
 msgid "fire"
 msgstr "tűz"
 

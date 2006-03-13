@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-17 22:33+0200\n"
+"POT-Creation-Date: 2006-03-13 13:58+0100\n"
 "PO-Revision-Date: 2005-09-01 15:21+0100\n"
 "Last-Translator: RokStar <rokstar123@gmail.com>\n"
 "Language-Team: none\n"
@@ -51,13 +51,13 @@ msgstr ""
 msgid "Defeat the assassins"
 msgstr "Sconfiggi gli assassini"
 
+#: Unrest/scenarios/Bandit_Invasion.cfg:54 Unrest/scenarios/Orc_Attack.cfg:69
+#: Unrest/scenarios/Elvish_Rivalry.cfg:46
 #: Unrest/scenarios/Human_Alliance.cfg:56
-#: Unrest/scenarios/Elvish_Rivalry.cfg:46 Unrest/scenarios/Orc_Attack.cfg:69
-#: Unrest/scenarios/Bandit_Invasion.cfg:54
 msgid "Death of Aramir"
 msgstr "Morte di Aramir"
 
-#: Unrest/scenarios/Orc_Attack.cfg:73 Unrest/scenarios/Bandit_Invasion.cfg:58
+#: Unrest/scenarios/Bandit_Invasion.cfg:58 Unrest/scenarios/Orc_Attack.cfg:73
 msgid "Death of Elebren"
 msgstr "Morte di Elebren"
 
@@ -97,13 +97,13 @@ msgstr "Sono stato attaccato dagli assassini!"
 msgid "That's bad. Prepare to die, assassins!"
 msgstr "Non ci voleva. Preparatevi a morire, assassini!"
 
-#: Unrest/scenarios/Orc_Attack.cfg:517
 #: Unrest/scenarios/Bandit_Invasion.cfg:355
+#: Unrest/scenarios/Orc_Attack.cfg:517
 msgid "Argh! Aramir is dead! Now I am doomed!"
 msgstr "Argh! Aramir è morto! Siamo rovinati!"
 
-#: Unrest/scenarios/Orc_Attack.cfg:531
 #: Unrest/scenarios/Bandit_Invasion.cfg:368
+#: Unrest/scenarios/Orc_Attack.cfg:531
 msgid "No! Without Elebren, our kingdom is doomed!"
 msgstr "No! Senza Elebren il nostro regno è finito!"
 
@@ -207,7 +207,7 @@ msgstr ""
 msgid "Alliance against the Orcs"
 msgstr "Sconfiggi gli Orchi"
 
-#: Unrest/scenarios/Human_Alliance.cfg:52 Unrest/scenarios/Orc_Attack.cfg:65
+#: Unrest/scenarios/Orc_Attack.cfg:65 Unrest/scenarios/Human_Alliance.cfg:52
 msgid "Defeat the Orcs"
 msgstr "Sconfiggi gli Orchi"
 
@@ -330,28 +330,28 @@ msgstr ""
 msgid "Elvish Warrior King"
 msgstr "Re Guerriero Elfico"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:17
 #: Unrest/units/Elvish_Warrior_Prince.cfg:18
+#: Unrest/units/Elvish_Warrior_King.cfg:17
 msgid "leadership"
 msgstr "comando"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:27
 #: Unrest/units/Elvish_Warrior_Prince.cfg:28
+#: Unrest/units/Elvish_Warrior_King.cfg:27
 msgid "sword"
 msgstr "spada"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:28 Unrest/units/Nightwing_Bat.cfg:22
 #: Unrest/units/Elvish_Warrior_Prince.cfg:29
+#: Unrest/units/Elvish_Warrior_King.cfg:28 Unrest/units/Nightwing_Bat.cfg:22
 msgid "blade"
 msgstr "lama"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:38
 #: Unrest/units/Elvish_Warrior_Prince.cfg:39
+#: Unrest/units/Elvish_Warrior_King.cfg:38
 msgid "fireball"
 msgstr "palla di fuoco"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:39 Unrest/units/Forest_Fire.cfg:36
 #: Unrest/units/Elvish_Warrior_Prince.cfg:40
+#: Unrest/units/Elvish_Warrior_King.cfg:39 Unrest/units/Forest_Fire.cfg:36
 msgid "fire"
 msgstr "fuoco"
 

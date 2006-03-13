@@ -47,10 +47,10 @@ MSGINIT = msginit
 MSGCONV = msgconv
 MSGFILTER = msgfilter
 
-POFILES = de.po es.po pt_BR.po af.po bg.po ca.po cs.po da.po el_GR.po en_GB.po et.po eu.po fi.po fr.po hu.po it.po ja.po la.po nl.po no.po pl.po ru.po sk.po sl.po sr.po sv.po tr.po zh_CN.po he.po
-GMOFILES = de.gmo es.gmo pt_BR.gmo af.gmo bg.gmo ca.gmo cs.gmo da.gmo el_GR.gmo en_GB.gmo et.gmo eu.gmo fi.gmo fr.gmo hu.gmo it.gmo ja.gmo la.gmo nl.gmo no.gmo pl.gmo ru.gmo sk.gmo sl.gmo sr.gmo sv.gmo tr.gmo zh_CN.gmo he.gmo
-UPDATEPOFILES = de.po-update es.po-update pt_BR.po-update af.po-update bg.po-update ca.po-update cs.po-update da.po-update el_GR.po-update en_GB.po-update et.po-update eu.po-update fi.po-update fr.po-update hu.po-update it.po-update ja.po-update la.po-update nl.po-update no.po-update pl.po-update ru.po-update sk.po-update sl.po-update sr.po-update sv.po-update tr.po-update zh_CN.po-update he.po-update
-DUMMYPOFILES = de.nop es.nop pt_BR.nop af.nop bg.nop ca.nop cs.nop da.nop el_GR.nop en_GB.nop et.nop eu.nop fi.nop fr.nop hu.nop it.nop ja.nop la.nop nl.nop no.nop pl.nop ru.nop sk.nop sl.nop sr.nop sv.nop tr.nop zh_CN.nop he.nop
+POFILES = af.po bg.po ca.po cs.po da.po de.po el.po en_GB.po es.po eo.po et.po eu.po fi.po fr.po he.po hu.po id.po it.po ja.po la.po nl.po no.po oc.po pl.po pt.po pt_BR.po ro.po ru.po sk.po sl.po sr.po sv.po tr.po vi.po zh_CN.po
+GMOFILES = af.gmo bg.gmo ca.gmo cs.gmo da.gmo de.gmo el.gmo en_GB.gmo es.gmo eo.gmo et.gmo eu.gmo fi.gmo fr.gmo he.gmo hu.gmo id.gmo it.gmo ja.gmo la.gmo nl.gmo no.gmo oc.gmo pl.gmo pt.gmo pt_BR.gmo ro.gmo ru.gmo sk.gmo sl.gmo sr.gmo sv.gmo tr.gmo vi.gmo zh_CN.gmo
+UPDATEPOFILES = af.po-update bg.po-update ca.po-update cs.po-update da.po-update de.po-update el.po-update en_GB.po-update es.po-update eo.po-update et.po-update eu.po-update fi.po-update fr.po-update he.po-update hu.po-update id.po-update it.po-update ja.po-update la.po-update nl.po-update no.po-update oc.po-update pl.po-update pt.po-update pt_BR.po-update ro.po-update ru.po-update sk.po-update sl.po-update sr.po-update sv.po-update tr.po-update vi.po-update zh_CN.po-update
+DUMMYPOFILES = af.nop bg.nop ca.nop cs.nop da.nop de.nop el.nop en_GB.nop es.nop eo.nop et.nop eu.nop fi.nop fr.nop he.nop hu.nop id.nop it.nop ja.nop la.nop nl.nop no.nop oc.nop pl.nop pt.nop pt_BR.nop ro.nop ru.nop sk.nop sl.nop sr.nop sv.nop tr.nop vi.nop zh_CN.nop
 DISTFILES.common = Makefile.in.in remove-potcdate.sin \
 $(DISTFILES.common.extra1) $(DISTFILES.common.extra2) $(DISTFILES.common.extra3)
 DISTFILES = $(DISTFILES.common) Makevars POTFILES.in $(DOMAIN).pot \
@@ -58,7 +58,7 @@ DISTFILES = $(DISTFILES.common) Makevars POTFILES.in $(DOMAIN).pot \
 
 POTFILES = \
 
-CATALOGS = de.gmo es.gmo pt_BR.gmo af.gmo bg.gmo ca.gmo cs.gmo da.gmo el_GR.gmo en_GB.gmo et.gmo eu.gmo fi.gmo fr.gmo hu.gmo it.gmo ja.gmo la.gmo nl.gmo no.gmo pl.gmo ru.gmo sk.gmo sl.gmo sr.gmo sv.gmo tr.gmo zh_CN.gmo he.gmo
+CATALOGS = af.gmo bg.gmo ca.gmo cs.gmo da.gmo de.gmo el.gmo en_GB.gmo es.gmo eo.gmo et.gmo eu.gmo fi.gmo fr.gmo he.gmo hu.gmo id.gmo it.gmo ja.gmo la.gmo nl.gmo no.gmo oc.gmo pl.gmo pt.gmo pt_BR.gmo ro.gmo ru.gmo sk.gmo sl.gmo sr.gmo sv.gmo tr.gmo vi.gmo zh_CN.gmo
 
 # Makevars gets inserted here. (Don't remove this line!)
 # Makefile variables for PO directory in any package using GNU gettext.

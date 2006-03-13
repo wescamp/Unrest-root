@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-17 22:33+0200\n"
+"POT-Creation-Date: 2006-03-13 13:58+0100\n"
 "PO-Revision-Date: 2005-05-07 13:02+0200\n"
 "Last-Translator: Jose Gordillo\n"
 "Language-Team: Català <wesnoth-ca@ettin.org>\n"
@@ -53,13 +53,13 @@ msgstr "Els Assassins d'Elebren"
 msgid "Defeat the assassins"
 msgstr "Derrota els assassins"
 
+#: Unrest/scenarios/Bandit_Invasion.cfg:54 Unrest/scenarios/Orc_Attack.cfg:69
+#: Unrest/scenarios/Elvish_Rivalry.cfg:46
 #: Unrest/scenarios/Human_Alliance.cfg:56
-#: Unrest/scenarios/Elvish_Rivalry.cfg:46 Unrest/scenarios/Orc_Attack.cfg:69
-#: Unrest/scenarios/Bandit_Invasion.cfg:54
 msgid "Death of Aramir"
 msgstr "Mort d'Aramir"
 
-#: Unrest/scenarios/Orc_Attack.cfg:73 Unrest/scenarios/Bandit_Invasion.cfg:58
+#: Unrest/scenarios/Bandit_Invasion.cfg:58 Unrest/scenarios/Orc_Attack.cfg:73
 msgid "Death of Elebren"
 msgstr "Mort d'Elebren"
 
@@ -100,13 +100,13 @@ msgstr "M'està atacant un grup d'assassins!"
 msgid "That's bad. Prepare to die, assassins!"
 msgstr "Malament. Prepareu-vos a morir, assassins!"
 
-#: Unrest/scenarios/Orc_Attack.cfg:517
 #: Unrest/scenarios/Bandit_Invasion.cfg:355
+#: Unrest/scenarios/Orc_Attack.cfg:517
 msgid "Argh! Aramir is dead! Now I am doomed!"
 msgstr "Argh! Aramir ha mort! Estic perdut!"
 
-#: Unrest/scenarios/Orc_Attack.cfg:531
 #: Unrest/scenarios/Bandit_Invasion.cfg:368
+#: Unrest/scenarios/Orc_Attack.cfg:531
 msgid "No! Without Elebren, our kingdom is doomed!"
 msgstr "No! Sense Elebren, el nostre regne està perdut!"
 
@@ -213,7 +213,7 @@ msgstr "Ací estan els elfs, i estan lluitant entre ells! Millor! A per ells!"
 msgid "Alliance against the Orcs"
 msgstr "Aliança contra els orcs"
 
-#: Unrest/scenarios/Human_Alliance.cfg:52 Unrest/scenarios/Orc_Attack.cfg:65
+#: Unrest/scenarios/Orc_Attack.cfg:65 Unrest/scenarios/Human_Alliance.cfg:52
 msgid "Defeat the Orcs"
 msgstr "Derrota els orcs"
 
@@ -344,28 +344,28 @@ msgstr ""
 msgid "Elvish Warrior King"
 msgstr "Rei Guerrer Elf"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:17
 #: Unrest/units/Elvish_Warrior_Prince.cfg:18
+#: Unrest/units/Elvish_Warrior_King.cfg:17
 msgid "leadership"
 msgstr "lideratge"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:27
 #: Unrest/units/Elvish_Warrior_Prince.cfg:28
+#: Unrest/units/Elvish_Warrior_King.cfg:27
 msgid "sword"
 msgstr "espasa"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:28 Unrest/units/Nightwing_Bat.cfg:22
 #: Unrest/units/Elvish_Warrior_Prince.cfg:29
+#: Unrest/units/Elvish_Warrior_King.cfg:28 Unrest/units/Nightwing_Bat.cfg:22
 msgid "blade"
 msgstr "talla"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:38
 #: Unrest/units/Elvish_Warrior_Prince.cfg:39
+#: Unrest/units/Elvish_Warrior_King.cfg:38
 msgid "fireball"
 msgstr "bola de foc"
 
-#: Unrest/units/Elvish_Warrior_King.cfg:39 Unrest/units/Forest_Fire.cfg:36
 #: Unrest/units/Elvish_Warrior_Prince.cfg:40
+#: Unrest/units/Elvish_Warrior_King.cfg:39 Unrest/units/Forest_Fire.cfg:36
 msgid "fire"
 msgstr "foc"
 
