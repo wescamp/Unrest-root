@@ -9,7 +9,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: Unrest.cfg:3
 msgid "Unrest in Elfland"
@@ -36,8 +37,12 @@ msgid "King"
 msgstr "Король"
 
 #: Unrest.cfg:10
-msgid "Play the role of an Elvish Prince as he attempts to save the realm from its downfall."
-msgstr "Играйте роль эльфийского принца, который пытается спасти своё царство от крушения."
+msgid ""
+"Play the role of an Elvish Prince as he attempts to save the realm from its "
+"downfall."
+msgstr ""
+"Играйте роль эльфийского принца, который пытается спасти своё царство от "
+"крушения."
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:4
 #, fuzzy
@@ -48,15 +53,13 @@ msgstr "Убийцы Элебрена"
 msgid "Defeat the assassins"
 msgstr "Победите убийц"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:54
-#: Unrest/scenarios/Orc_Attack.cfg:69
+#: Unrest/scenarios/Bandit_Invasion.cfg:54 Unrest/scenarios/Orc_Attack.cfg:69
 #: Unrest/scenarios/Elvish_Rivalry.cfg:46
 #: Unrest/scenarios/Human_Alliance.cfg:56
 msgid "Death of Aramir"
 msgstr "Смерть Арамира"
 
-#: Unrest/scenarios/Bandit_Invasion.cfg:58
-#: Unrest/scenarios/Orc_Attack.cfg:73
+#: Unrest/scenarios/Bandit_Invasion.cfg:58 Unrest/scenarios/Orc_Attack.cfg:73
 msgid "Death of Elebren"
 msgstr "Смерть Элебрена"
 
@@ -119,7 +122,9 @@ msgid "Die, you assassin!"
 msgstr "Умирай, убийца!"
 
 #: Unrest/scenarios/Bandit_Invasion.cfg:417
-msgid "Having crushed their opponents, Aramir and Elebren ruled peacefully for many years."
+msgid ""
+"Having crushed their opponents, Aramir and Elebren ruled peacefully for many "
+"years."
 msgstr "Сокрушив их противников, Арамир и Элебрен правили много лет."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:4
@@ -148,8 +153,12 @@ msgid "On the day he died, he gave a command to his two sons:"
 msgstr "Перед смертью, он сказал двум своим сыновьям:"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:132
-msgid "When I am gone, you two will rule together, for if either of you was to die, our kingdom would surely be doomed."
-msgstr "Вы будете правгть королевством вместе. Если один из вас умерет, нашему королевству придёт конец."
+msgid ""
+"When I am gone, you two will rule together, for if either of you was to die, "
+"our kingdom would surely be doomed."
+msgstr ""
+"Вы будете правгть королевством вместе. Если один из вас умерет, нашему "
+"королевству придёт конец."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:137
 msgid "But all was not well once the king was dead."
@@ -161,7 +170,8 @@ msgstr "Забудьте, что он сказал! Я - старший и я б
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:171
 msgid "No! We must obey his wishes, or our kingdom may fall!"
-msgstr "Нет! Мы должны выполнить его пожелания, или наше королевство может упасть!"
+msgstr ""
+"Нет! Мы должны выполнить его пожелания, или наше королевство может упасть!"
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:176
 msgid "Such talk! See who rules once you are slain!"
@@ -173,7 +183,9 @@ msgstr "Я тебе говорил! Вы - дурак, потому что не 
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:219
 msgid "Trust our father's wishes, you said. Yes, you will surely fall."
-msgstr "Надо соблюдайте пожелания нашего отца, вы сказали. Да, вы конечно не выживите."
+msgstr ""
+"Надо соблюдайте пожелания нашего отца, вы сказали. Да, вы конечно не "
+"выживите."
 
 #: Unrest/scenarios/Elvish_Rivalry.cfg:233
 #, fuzzy
@@ -200,8 +212,7 @@ msgstr "Они - эльфы, и они борются сами с собой! В
 msgid "Alliance against the Orcs"
 msgstr "Союз с Орками"
 
-#: Unrest/scenarios/Orc_Attack.cfg:65
-#: Unrest/scenarios/Human_Alliance.cfg:52
+#: Unrest/scenarios/Orc_Attack.cfg:65 Unrest/scenarios/Human_Alliance.cfg:52
 msgid "Defeat the Orcs"
 msgstr "Победите Орков"
 
@@ -210,11 +221,16 @@ msgid "Death of Tyragon"
 msgstr "Смерть Тирагона"
 
 #: Unrest/scenarios/Human_Alliance.cfg:197
-msgid "Aramir arrived just in time. The castle of the general Tyragon was already under siege."
-msgstr "Арамир прибыл как раз вовремя. Замок генерала Тирагона был уже под осадой."
+msgid ""
+"Aramir arrived just in time. The castle of the general Tyragon was already "
+"under siege."
+msgstr ""
+"Арамир прибыл как раз вовремя. Замок генерала Тирагона был уже под осадой."
 
 #: Unrest/scenarios/Human_Alliance.cfg:201
-msgid "Come quickly! The Orcs have destroyed my outposts and are attacking my castle!"
+msgid ""
+"Come quickly! The Orcs have destroyed my outposts and are attacking my "
+"castle!"
 msgstr "Идите быстрей! Орки разрушили мои заставы и нападают на мой замок!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:205
@@ -222,8 +238,12 @@ msgid "I'm coming as fast as I can! Hold them off as best you can!"
 msgstr "Я иди так бустро, как я могу! Удерживайте их как можете!"
 
 #: Unrest/scenarios/Human_Alliance.cfg:209
-msgid "I have to stay in here and defend my castle, so I can't help you defeat the Orcs."
-msgstr "Я должен остаться дома здесь и защитить мой замок, таким образом я не могу помочь Вам побеждать Орков."
+msgid ""
+"I have to stay in here and defend my castle, so I can't help you defeat the "
+"Orcs."
+msgstr ""
+"Я должен остаться дома здесь и защитить мой замок, таким образом я не могу "
+"помочь Вам побеждать Орков."
 
 #: Unrest/scenarios/Human_Alliance.cfg:219
 msgid "No! Both my kingdom and Tyragon's people are doomed now!"
@@ -254,8 +274,12 @@ msgid "Orc Attack"
 msgstr "Нападение Орков"
 
 #: Unrest/scenarios/Orc_Attack.cfg:238
-msgid "No! The orcs are coming! Elebren, if you continue this feud, they will slay us all!"
-msgstr "Нет! Орки приближаются! Элебрен, если Вы продолжите эту вражду, они убьют нас!"
+msgid ""
+"No! The orcs are coming! Elebren, if you continue this feud, they will slay "
+"us all!"
+msgstr ""
+"Нет! Орки приближаются! Элебрен, если Вы продолжите эту вражду, они убьют "
+"нас!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:243
 msgid "I suppose we cannot win without joining...."
@@ -266,8 +290,10 @@ msgid "I swear I will not attack you again."
 msgstr "Я клянусь, что я не нападу на вас снова."
 
 #: Unrest/scenarios/Orc_Attack.cfg:254
-msgid "Now that you have stopped fighting, your people are willing to pay you taxes."
-msgstr "Теперь, когда вы прекратили бороться, ваши люди готовы платить вам налоги."
+msgid ""
+"Now that you have stopped fighting, your people are willing to pay you taxes."
+msgstr ""
+"Теперь, когда вы прекратили бороться, ваши люди готовы платить вам налоги."
 
 #: Unrest/scenarios/Orc_Attack.cfg:306
 msgid "Pillagers! I require you to burn the forest for me!"
@@ -282,20 +308,31 @@ msgid "We've driven the Orcish menace from our forests. Now we--"
 msgstr "Мы увели угрозу Орков от наших лесов. Теперь мы--"
 
 #: Unrest/scenarios/Orc_Attack.cfg:587
-msgid "Elebren! Aramir! We have need of your aid, and call on you to uphold our old alliance against the Orcs!"
-msgstr "Элебрен! Арамир! Нам нужна ваша помощь, и обращаемся к Вам с просьбой поддерживать наш старый союз против Орков!"
+msgid ""
+"Elebren! Aramir! We have need of your aid, and call on you to uphold our old "
+"alliance against the Orcs!"
+msgstr ""
+"Элебрен! Арамир! Нам нужна ваша помощь, и обращаемся к Вам с просьбой "
+"поддерживать наш старый союз против Орков!"
 
 #: Unrest/scenarios/Orc_Attack.cfg:591
 msgid "I'll go help the humans with their orcish problem. Elebren--"
 msgstr "Я пойду на помощь людям с их проблемой. Элебрен--"
 
 #: Unrest/scenarios/Orc_Attack.cfg:600
-msgid "I'll stay here to put out the fires and defend against any other invaders."
-msgstr "Я останусь здесь, чтобы потушить пожары и защитить против любых других захватчиков."
+msgid ""
+"I'll stay here to put out the fires and defend against any other invaders."
+msgstr ""
+"Я останусь здесь, чтобы потушить пожары и защитить против любых других "
+"захватчиков."
 
 #: Unrest/scenarios/Orc_Attack.cfg:606
-msgid "I'll stay here to clean up after the fires and defend against any other invaders."
-msgstr "Я останусь здесь, чтобы убраться после пожаров и защитить против любых других захватчиков."
+msgid ""
+"I'll stay here to clean up after the fires and defend against any other "
+"invaders."
+msgstr ""
+"Я останусь здесь, чтобы убраться после пожаров и защитить против любых "
+"других захватчиков."
 
 #: Unrest/units/Elvish_Warrior_King.cfg:3
 msgid "Elvish Warrior King"
@@ -312,8 +349,7 @@ msgid "sword"
 msgstr "меч"
 
 #: Unrest/units/Elvish_Warrior_Prince.cfg:29
-#: Unrest/units/Elvish_Warrior_King.cfg:28
-#: Unrest/units/Nightwing_Bat.cfg:22
+#: Unrest/units/Elvish_Warrior_King.cfg:28 Unrest/units/Nightwing_Bat.cfg:22
 msgid "blade"
 msgstr "клинок"
 
@@ -323,8 +359,7 @@ msgid "fireball"
 msgstr "Огненный Шар"
 
 #: Unrest/units/Elvish_Warrior_Prince.cfg:40
-#: Unrest/units/Elvish_Warrior_King.cfg:39
-#: Unrest/units/Forest_Fire.cfg:36
+#: Unrest/units/Elvish_Warrior_King.cfg:39 Unrest/units/Forest_Fire.cfg:36
 msgid "fire"
 msgstr "огонь"
 
@@ -363,4 +398,3 @@ msgstr "клыки"
 #: Unrest/units/Nightwing_Bat.cfg:26
 msgid "drain"
 msgstr "осушать"
-
